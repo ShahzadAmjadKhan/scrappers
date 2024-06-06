@@ -54,7 +54,6 @@ def process_place(page, links):
         page.wait_for_load_state()
 
 if __name__ == "__main__":
-    # search_text = input("Enter map search text:")
-    search_text = "restaurants"
-    print(f"Searching for jobs using query '{search_text}'")
+    search_text = input("Enter map search text:")
+    print(f"Searching for places using query '{search_text}'")
     start(search_text)
