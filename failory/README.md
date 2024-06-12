@@ -4,14 +4,24 @@ This script scraps failory.com  to get data of top  300 startup accelerators. Da
 
 It retrieves following information and dumps all the information in a excel file 
 
-# Accelerator Name
-# City
-# Started In
-# Founders
-#  Industries
-# Number of Investments
-# Funding Amount
-# Number of Exits
-# Equity Taken
-# Accelerator Duration
-# Website URL
+#Accelerator Name
+
+#City
+
+#Started In
+
+#Founders
+
+#Industries
+
+#Number of Investments
+
+#Funding Amount
+
+#Number of Exits
+
+#Equity Taken
+
+#Accelerator Duration
+
+#Website URL
