@@ -3,11 +3,27 @@
 - Stores information in CSV format
 
 # Solution 
-- Script uses playwright to browse to website and lookup for categories availbale at https://au.trustpilot.com/categories
-- For each category it fetches list of claimed companies and extract Business name, website, and Pays for extra features 
+- Script uses playwright to browse to website and lookup for categories available at https://au.trustpilot.com/categories
+- For each category it fetches list of claimed companies and extract following information:
+  - businessUnitId,
+  - displayName
+  - paysForExtraFeatures
+  - claimed
+  - numberOfReviews
+  - stars
+  - contact.website
+  - contact.phone
+  - contact.email
+  - location.address
+  - location.city
+  - location.zipCode
+  - trustScore
+  - categories
+  
 - This information is stored in CSV format 
 
 # Language & Tools
 - Python
 - Playwright
-- CSV
+- Pandas
+- Requests

@@ -1,6 +1,217 @@
-Business Name,Website,Pays for Extra Features,Claimed
-Ozdingo ,https://ozdingo.com.au/,True,False
-The Fish Works,http://thefishworks.com.au,False,False
-Swaggle,https://swaggle.com.au/,True,False
-woononapetfoods.com.au,http://woononapetfoods.com.au,False,False
-Fortunatepaws,http://fortunatepaws.com,False,False
+businessUnitId,displayName,paysForExtraFeatures,claimed,numberOfReviews,stars,contact.website,contact.phone,contact.email,location.address,location.city,location.zipCode,trustScore,categories
+5e69cc5371876d00014e3a8c,Petz Park,True,True,7541,5.0,https://petzpark.com.au,1300 041 608,bark@petzpark.com.au,A1/35-39 Bourke Rd,Alexandria,2015,4.8,"Veterinarian, Dog Park, Pet Store, Pet Supply Store, Dog Day Care Center"
+636a17e5be8e22c679db606e,Leadr Pet,True,True,117,4.5,http://leadrpet.com,,hello@leadrpet.com,58 City Road Chippendale,Sydney,2008,4.7,"Pet Store, Dog Park, Dog Day Care Center, Pet Supply Store, Veterinarian"
+6544a3ce18d36c1d5d90fbe1,VetChat,False,True,85,5.0,http://vetchat.com.au,,service@vetchat.com.au,VetChat,Melbourne ,3124,4.9,Veterinarian
+5efc889f172df70001640d50,Save Our Wildlife Foundation Inc,False,True,47,4.5,http://save-our-wildlife.org.au,08 7120 6610,team@save-our-wildlife.org.au, 67 Wilpena Terrace,Aldgate,5154,4.7,"Wildlife Refuge, Animal Rescue Service"
+53b3aada000064000579041f,VetShopMax,False,True,120,4.0,http://www.vetshopmax.com,,info@vetshopmax.com,,,,4.1,"Pharmacy, Veterinarian, Pet Store, Hobby Store"
+613c81e007226d001d53cdb4,Dial A Vet,False,True,4,4.0,http://www.dialavet.com,,support@dialavet.com.au,,,,4.0,Veterinarian
+62f087165a57dde6d418b907,Aussie Dog Lovers,False,True,154,3.5,http://aussiedoglovers.com.au,1800 364 568,admin@aussiedoglovers.com.au,Airds Road,Campbelltown,2560,3.7,"Pet Adoption Service, Pet Store, Pet Groomer, Pet Supply Store, Animal Rescue Service, Veterinarian"
+640033d136a7240c56e65e5e,Healedpets,False,True,1,3.5,http://healedpets.com.au,,,,,,3.7,Animal Rescue Service
+5d52b2e202d3aa00017278f3,Sage Vets,False,True,15,2.0,http://sagevets.com.au,(08) 6166 6329,contact@sagevets.com.au,Wheatley Drive 81,Bull Creek,6149,2.2,"Veterinarian, Pet Boarding Service, Cat Hostel"
+618066f1b29e5665f513dbd2,Mittagongvet,False,True,0,0.0,http://mittagongvet.com.au,0248722028,vets@mittagongvet.com.au,109 Main Street,Mittagong,2575,0.0,Veterinarian
+5efc889f172df70001640d50,Save Our Wildlife Foundation Inc,False,True,47,4.5,http://save-our-wildlife.org.au,08 7120 6610,team@save-our-wildlife.org.au, 67 Wilpena Terrace,Aldgate,5154,4.7,"Wildlife Refuge, Animal Rescue Service"
+5e69cc5371876d00014e3a8c,Petz Park,True,True,7541,5.0,https://petzpark.com.au,1300 041 608,bark@petzpark.com.au,A1/35-39 Bourke Rd,Alexandria,2015,4.8,"Veterinarian, Dog Park, Pet Store, Pet Supply Store, Dog Day Care Center"
+636a17e5be8e22c679db606e,Leadr Pet,True,True,117,4.5,http://leadrpet.com,,hello@leadrpet.com,58 City Road Chippendale,Sydney,2008,4.7,"Pet Store, Dog Park, Dog Day Care Center, Pet Supply Store, Veterinarian"
+63d7ab3515aa5aaa80baa0f2,The Canny Company Australia (Pty) Ltd,False,True,80,4.5,https://www.cannyco.com.au,,aus@cannyco.com,,Black Rock,,4.7,"Pet Trainer, Dog Trainer, Dog Walker"
+5f6a94cf1121630001dab5e1,Puppy Love Dog Walking,False,True,15,4.5,http://puppylovedogwalking.com.au,0404221196,info@puppylovedogwalking,Melbourne,Melbourne,3000,4.5,"Pet Sitter, Dog Walker"
+5e4a1922cb7474000141dc3f,Pawpedics,False,True,292,4.5,http://pawpedics.com.au,1300 706 610,support@pawpedics.com.au,8/38 Machinery Drive,Tweed Heads South,2486,4.3,"Kennel, Bed Shop"
+63eeac8de08cfbfd9da8c2c7,DogMaster Trainers,False,True,14,4.5,http://www.dogmaster.com.au,1800 300 364,orders@dogmaster.com.au,5/35 Township Dr,Burleigh Heads,4220,4.3,Dog Trainer
+6616126a21118e27ef06e577,Night & Day Cleaning Co. ,False,True,5,4.0,https://www.facebook.com/nightanddaycleaningco/,0480572301,cleanzandtoebeanz@gmail.com,,,,4.1,"House Cleaning Service, Pet Sitter, Dog Walker, Commercial Cleaning Service"
+64c6427ffa30517b192c00a4,Astro Tails,False,True,2,4.0,http://astrotails.com.au,0488608731,info@astrotails.com.au,No Physical Location,Ryde,2111,3.8,Dog Walker
+631bc4c809aefca163c6893f,Calmk9,False,True,2,4.0,http://calmk9.com.au,0422900190,saul@calmk9.com.au,Murray Road Ormond,Melbourne,3204,3.8,Dog Trainer
+61066a8096798b001dd21e5a,Miss Pop-Ins Pet Sitting,False,True,1,3.5,http://misspopins.com.au,0407406925,info@misspopins.com.au,P.O. Box 5161,VICTORIA POINT,4165,3.7,"Moving and Storage Service, Dog Walker, House Sitter, Pet Sitter"
+613ef4af9e1fe6001d51548c,Pet Professor,False,True,1,3.5,http://petprofessor.com.au,0433612059,marianne@petprofessor.com.au,Hurlstone Park,Sydney,2193,3.7,Dog Trainer
+5d52b2e202d3aa00017278f3,Sage Vets,False,True,15,2.0,http://sagevets.com.au,(08) 6166 6329,contact@sagevets.com.au,Wheatley Drive 81,Bull Creek,6149,2.2,"Veterinarian, Pet Boarding Service, Cat Hostel"
+62662946e5afae803a8aad80,dazer.com.au,False,True,0,0.0,http://dazer.com.au, 1300 46 101 4,info@dazer.com.au,PO Box 1484,Toowong DC,4066,0.0,Dog Trainer
+65d57512a51fa342315f75f8,Next Level Dog Training,False,True,0,0.0,http://nextleveldogtraining.com.au,0403833822,info@nextleveldogtraining.com.au,67/6 Tabbita Street,Moorabbin,3189,0.0,Dog Trainer
+60a591d07b421f0001b1e8c2,Ozzipets,False,True,0,0.0,http://ozzipets.com,,,,,,0.0,Dog Trainer
+666c3b5bde05943e148a0a27,kidsit.com,False,True,0,0.0,https://kidsit.com,,hello@kidsit.com,PO BOX 79,Newtown,2042,0.0,"Child Care Agency, Babysitter, Dog Walker, Pet Sitter"
+625fdaf101cc416cdf5060af,Pawparade,False,True,0,0.0,http://pawparade.com.au,,,,,,0.0,"Pet Sitter, Dog Walker"
+65fe0cbda71f14dd43c0a3ac,Dogscatsparrotsaustralia,False,True,0,0.0,http://dogscatsparrotsaustralia.com,+61390285868,admin@dogscatsparrotsaustralia.com,83 CLIFTON DR BACCHUS MARSH VIC 3340,Victoria,3340,0.0,Dog Breeder
+61eca2b84943ded7577f8d71,Park Ridge Cat Resort,False,True,0,0.0,http://parkridgecatresort.com.au,07 3297 0275,admin@parkridgecatresort.com.au,3994 Mount Lindesay Hwy,Park Ridge South,4125,0.0,Cattery
+632acdc25228c822f0fd3bd0,ZVER Canine - Professional Dog Training,False,True,0,0.0,http://zver.com.au,0435192167,info@zver.com.au,"2/351 Oran Park Drive, Oran Park",Sydney,2570,0.0,"Dog Breeder, Dog Trainer"
+5729b57f0000ff00058c665c,Forbeslucerne,False,True,29,4.5,http://forbeslucerne.com.au,1800 28 429,mark@forbeslucerne.com.au,303 Clarkes Hill Rd,Clarkes Hill,3352,4.5,"Horseback Riding Service, Sporting Goods Store"
+65bd9ca6b4576db55b259278,Barefoot Saddles Australia,False,True,7,4.5,http://barefootsaddlesaustralia.com.au,,barefootsaddlesaustralia@outlook.com,"418, North Island Loop Road",upper orara,2450,4.3,Saddlery
+663d930938a8abd33eb1976a,Australian Bloodstock,False,True,0,0.0,http://australianbloodstock.com.au,1300 964 797,sales@australianbloodstock.com.au,PO BOX 208 Rutherford ,Newcastle,2293,0.0,Horse Stable Stud Farm
+63da02ca1d8f883d27c52aa3,Fab Bloodstock,False,True,0,0.0,http://fabbloodstock.com.au,02 9603 1559,Fabbloodstock@gmail.com,"Level 1, Unit 1, 50 Airds road , New South Wales ",Minto,2566,0.0,Horse Breeder
+5d25d322f0787b00015512d0,Habitat - Home To Pet Supplies,True,True,4649,5.0,http://habitatpets.com.au,1300 004 227,info@habitatpets.com.au,,,,4.8,"Aquarium Shop, Pet Supply Store, Pet Store, Animal Feed Store, Pet Groomer"
+63d7ab3515aa5aaa80baa0f2,The Canny Company Australia (Pty) Ltd,False,True,80,4.5,https://www.cannyco.com.au,,aus@cannyco.com,,Black Rock,,4.7,"Pet Trainer, Dog Trainer, Dog Walker"
+5989b6090000ff0005a8665a,Jetpets,False,True,352,5.0,http://www.jetpets.com.au,,,Lambeck Drive 64,Tullamarine,3043,4.8,"Pet Moving Service, Pet Store"
+5e58951747cded00015d256a,Australian Bee Supplies,False,True,73,5.0,https://australianbeesupplies.com.au,0413056418,info@australianbeesupplies.com.au,"Unit 47, 33 Danaher Dve",South Morang,3089,4.8,"Educational Institution, Animal Control Service"
+5e6977f871876d00014e38c2,Smiley Dog,True,True,141,4.5,http://www.smileydog.com.au,+61395803005,sales@smileydog.com.au,2/32 Jarrah Drive,Braeside,VIC 3195,4.7,"Pet Store, Pet Groomer, Pet Supply Store"
+5f6a94cf1121630001dab5e1,Puppy Love Dog Walking,False,True,15,4.5,http://puppylovedogwalking.com.au,0404221196,info@puppylovedogwalking,Melbourne,Melbourne,3000,4.5,"Pet Sitter, Dog Walker"
+617a0659babbeb7ac90b66a9,Floofers,False,True,11,4.5,http://floofers.com.au,+61 3 9119 3041,contact@floofers.com.au,"Suite 240, 139 Cardigan St",Carlton,3053,4.4,Pet Sitter
+63d894db70160120c5da652c,Always In My Heart ,False,True,23,4.5,http://alwaysinmyheart.com.au,0455 100054,sales@alwaysinmyheart.com.au,PO Box 965,Balcatta,6914,4.3,"Jewelry Store, Pet Supply Store, Wholesale Jeweler, Pet Funeral Service"
+6616126a21118e27ef06e577,Night & Day Cleaning Co. ,False,True,5,4.0,https://www.facebook.com/nightanddaycleaningco/,0480572301,cleanzandtoebeanz@gmail.com,,,,4.1,"House Cleaning Service, Pet Sitter, Dog Walker, Commercial Cleaning Service"
+62578b3da4fbd252efec5906,Skye Pet Travel,False,True,3,4.0,http://www.skyepettravel.com.au,+61418978371,booking@skyepettravel.com.au,St Georges Terrace,Perth,6000,4.0,"Travel Agency, Pet Moving Service"
+5ed323a50a6b9700019b001d,Big Red Fencing,False,True,4,4.0,https://www.bigredfencing.com.au/,1300 244 733,mail@bigredfencing.com.au,15c 24 Dexter St,Moorooka,4105,3.9,"Equestrian Store, Agricultural Product Wholesaler, Animal Control Service, Pet Supply Store, Farm Equipment Supplier"
+621c8ca2835bd2246eff2d34,Pups4Sale,False,True,66,4.0,http://www.pups4sale.com.au,0421305383,admin@pups4sale.com.au,337 Settlement Rd,Thomastown,3074,3.8,Pet Adoption Service
+669dc7c2a28d00325aad6784,Saizengrooming,False,True,2,4.0,http://saizengrooming.com,,,,,,3.8,"Pet Supply Store, Pet Groomer"
+62f087165a57dde6d418b907,Aussie Dog Lovers,False,True,154,3.5,http://aussiedoglovers.com.au,1800 364 568,admin@aussiedoglovers.com.au,Airds Road,Campbelltown,2560,3.7,"Pet Adoption Service, Pet Store, Pet Groomer, Pet Supply Store, Animal Rescue Service, Veterinarian"
+61066a8096798b001dd21e5a,Miss Pop-Ins Pet Sitting,False,True,1,3.5,http://misspopins.com.au,0407406925,info@misspopins.com.au,P.O. Box 5161,VICTORIA POINT,4165,3.7,"Moving and Storage Service, Dog Walker, House Sitter, Pet Sitter"
+5ff82b340f1fd000010c3f78,Upmove.com.au Removalists,False,True,34,3.5,https://www.upmove.com.au,,support@upmove.com.au,,,,3.4,"Moving and Storage Service, Piano Moving Service, Moving Company, Transportation Service, Pet Moving Service"
+5e2cafd7d8f5790001b6c9db,Yuppy Puppy,False,True,17,3.0,https://yuppy-puppy.com.au,0414276442,angela@yuppy-puppy.com.au,40 Catharina Street ,Flagstaff Hill,5159,2.8,Pet Groomer
+579fe9070000ff000592fefd,PetCloud,False,True,155,2.5,https://www.petcloud.com.au,1300 66 77 85,service@petcloud.com.au,"315 Brunswick St, [TCB Building, The Precinct, Level 2]",Fortitude Valley,4006,2.7,"Pet Store, Pet Sitter"
+5d52b2e202d3aa00017278f3,Sage Vets,False,True,15,2.0,http://sagevets.com.au,(08) 6166 6329,contact@sagevets.com.au,Wheatley Drive 81,Bull Creek,6149,2.2,"Veterinarian, Pet Boarding Service, Cat Hostel"
+5fd0c7b4e1006c00018e1f31,"""Don't Fret Pet!""",False,True,0,0.0,https://dontfretpet.com.au,1300 30 70 21,dfp@dontfretpet.com.au,,,,0.0,"Pet Boarding Service, Pet Sitter"
+60cbed44872cbe0001e448c2,The Travelling House Sitters,False,True,0,0,http://thetravellinghousesitters.com,0420728693,britt@thetravellinghousesitters.com,,Melbourne,,0,"House Sitter, Pet Sitter"
+66a82c81f462e383527c051c,Happy Pet Home Sitting,False,True,0,0,http://happypethomesitting.com,,bec@happypethomesitting.com,,,,0,"House Sitter, Pet Sitter"
+666c3b5bde05943e148a0a27,kidsit.com,False,True,0,0,https://kidsit.com,,hello@kidsit.com,PO BOX 79,Newtown,2042,0,"Child Care Agency, Babysitter, Dog Walker, Pet Sitter"
+625fdaf101cc416cdf5060af,Pawparade,False,True,0,0,http://pawparade.com.au,,,,,,0,"Pet Sitter, Dog Walker"
+66b343ee0a324f37df125b98,Diskonify,False,True,0,0,http://diskonify.com.au,,,,,,0,"Pet-Friendly Accommodation, Pet Supply Store, Pet Trainer, Pet Store, Pet Groomer, Pet Adoption Service"
+66668c685f87ec2a77e0f146,Movematesaustralia,False,True,0,0,http://movematesaustralia.com.au,0436686537,aussie@movematesaustralia.com.au,,,,0,"Moving Company, Community School, Moving and Storage Service, Pet Moving Service, Immigration and Naturalization Service, Recruitment Service"
+6487e0fd82de4af8cf6a0ae2,Lexie’s Dog & Cat Grooming,False,True,0,0,http://happysgrooming.com,0422272550,lexie@happysgrooming.com,17 Nasturtium Gardens,BEELIAR,6164,0,Pet Groomer
+634f7ffbf70528a25588d46c,Dogwise Daycare,False,True,0,0,http://www.dogwisedaycare.com.au,0452101029,info@dogwisedaycare.com.au,21 Cheltenham Parade,Cheltenham,5014,0,Pet Boarding Service
+5a7925e12a14f20001dce673,Ozdingo ,True,True,6132,5.0,https://ozdingo.com.au/,0731949289,helpdesk@ozdingo.com.au,2B / 16 Forge Close,SUMNER,4074,4.9,"Home Improvement Store, Beauty Supply Store, Appliance Store, Health Food Store, Pet Store"
+5ca7154e9121e10001530943,The Fish Works,False,True,503,5.0,http://thefishworks.com.au,,,Mona Vale Road 327A,Terrey Hills,2084,4.9,Pet Store
+6566b8512ca8ae52b063c34f,Swaggle,True,True,434,5.0,https://swaggle.com.au/,,support@swaggle.com.au,,,,4.9,"Bird Shop, Pet Store, Pet Insurance Company, Animal Feed Store, Pet Supply Store"
+6020d33bc26b710001dbf424,woononapetfoods.com.au,False,True,309,5.0,http://woononapetfoods.com.au,0242843162,customerservice@woononapetfoods.com.au,47 Bellambi Lane,Bellambi,2518,4.9,Pet Supply Store
+602374bd3aafbc000109af8b,Fortunatepaws,False,True,173,5.0,http://fortunatepaws.com,,,,,,4.9,Pet Supply Store
+62ea58cf225a32bd769203b3,Dawn2Dusk Australia,False,True,146,5.0,http://dawn2duskaustralia.com,,support@dawn2duskaustralia.com,,,,4.9,"Pet Supply Store, Agricultural Product Wholesaler, Western Apparel Store"
+5e69cc5371876d00014e3a8c,Petz Park,True,True,7541,5.0,https://petzpark.com.au,1300 041 608,bark@petzpark.com.au,A1/35-39 Bourke Rd,Alexandria,2015,4.8,"Veterinarian, Dog Park, Pet Store, Pet Supply Store, Dog Day Care Center"
+5d12c286710bd20001ab0174,Jumbo Pets,True,True,4669,5.0,http://www.jumbopets.com.au,1300 906 146,sales@jumbopets.com,27 Badgally Rd,Campbelltown,2560,4.8,Pet Store
+5d25d322f0787b00015512d0,Habitat - Home To Pet Supplies,True,True,4649,5.0,http://habitatpets.com.au,1300 004 227,info@habitatpets.com.au,,,,4.8,"Aquarium Shop, Pet Supply Store, Pet Store, Animal Feed Store, Pet Groomer"
+5c341eb1aa37240001eb89c0,Pet Care Pharmacy,False,True,815,5.0,http://petcarepharmacy.com.au,02 9896 5885,info@petcarepharmacy.com.au,40/2-4 Picrite Close,Pemulwuy,2145,4.8,Pet Store
+6055544eb465b100016caa51,Feed For Thought,False,True,78,5.0,http://feedforthought.com.au,0402225906,info@feedforthought.com.au,"Suite 28762, PO Box 16",Nobby Beach,4218,4.8,"Pet Supply Store, Animal Feed Store"
+55b5d3640000ff0005817363,Pet-Tags,False,True,4189,4.5,http://www.pet-tags.com,02 9369 2666,http://www.pet-tags.com,"PO Box 1818, Bondi Junction",NSW,1355,4.7,"Pet Store, Hobby Store"
+6189c3edc86ccd025137cb7b,Eureka Pet Co,True,True,378,4.5,http://eurekapet.co,,hello@eurekapet.co,271 Goremans Road,Eureka,2480,4.7,"Pet Store, Pet Supply Store, Animal Feed Store"
+5e2eb277b4ea840001e062b7,Hi Form Australia PL,False,True,216,4.5,http://hiform.com.au,61397756422,enq@hiform.com.au,375 North Road,Langwarrin,3910,4.7,"Research and Product Development, Animal Feed Store"
+636c41567bf75c18d885a38a,Guinea Pigs Australia,False,True,180,4.5,https://guineapigsaustraliashop.com.au/,0411871977 ,orders@guineapigsaustralia.com.au,"709B, 340 Brisbane Road",ARUNDEL,4212,4.7,Pet Store
+61b32ba00cb88587cb53bf4e,thefurrynomad.com,False,True,130,4.5,http://thefurrynomad.com,0420552454,thefurrynomad@gmail.com,52 Parkes Rd,Sydney,2097,4.7,Pet Store
+636a17e5be8e22c679db606e,Leadr Pet,True,True,117,4.5,http://leadrpet.com,,hello@leadrpet.com,58 City Road Chippendale,Sydney,2008,4.7,"Pet Store, Dog Park, Dog Day Care Center, Pet Supply Store, Veterinarian"
+5ec8c617b3d7c50001dd17dc,Oz General Store,False,True,89,4.5,http://ozgeneralstore.com.au,03 9791 5590,sales@ozgeneralstore.com.au,39 Hutton Street,Dandenong,3175,4.5,"Auto Parts Store, General Store, Pet Store, Tool Store, Garden"
+5d15c13a084e0f0001d7031a,Factory Buys,True,True,4585,4.5,http://www.factorybuys.com.au,,info@factorybuys.com.au,Albion (Headquarters),Brisbane,4010,4.4,"Furniture Store, Children's Toys Store, Outdoor Furniture Store, Bedroom Furniture Store, Mattress Store, Pet Store"
+56f328de0000ff00058a90be,The Vet Shed,False,True,817,4.5,http://thevetshed.com.au,1300 735 995,support@thevetshed.com.au,,,,4.4,"Hobby Store, Pet Store"
+600a82533e88be0001c148e5,Oscillot,True,True,350,4.5,http://oscillot.com.au,0424356054,info@oscillot.com.au,7/490 Scottsdale Drive,Varsity Lakes,4227,4.4,"Pet Supply Store, Pet Store, Hardware Accessories Store, Fence Supply Store"
+60adb66c3dcf5700018ce96c,Pet ID Tags,False,True,190,4.5,http://petidtags.com.au,0422137417,sales@petidtags.com.au,,,,4.3,Pet Supply Store
+6226c74eacd50ba8cdafdca7,PaWz,False,True,354,4.0,http://petpawz.com.au,,info@petpawz.com.au,"1/7 Duigan Dr, ",Moorabbin Airport ,VIC 3194,4.2,Pet Supply Store
+6556c74a493229b0dd75c927,Femi Home,False,True,34,4.0,http://femihome.com,,Support@femihome.com,56D Barker Street,Belmont,6104,4.1,Pet Store
+5e8c6628fe45340001607dd3,GTmall,True,True,520,4.0,http://gtmall.com.au,,support@gtmall.com.au,8 Atlantic Drive,Keysborough,3173,3.9,"Swimming Pool, Christmas Store, Pet Store, Hardware Store, Bicycle Store"
+625d751c8c10defa498efd58,Bargain Avenue,False,True,245,4.0,http://bargainavenue.com.au,,info@bargainavenue.com.au,,,,3.9,"Discount Store, Appliance Store, Bathroom Supply Store, Pet Supply Store, Mattress Store, Variety Store"
+5abf89cda2217100010bada4,Petceutics,False,True,1571,5.0,https://www.petceutics.com.au,1300 132 498,info@petceutics.com.au,2/3 Julius Avenue,North Ryde,2113,5.0,Pet Store
+5e1521e66a6fea0001d2a410,Lyka Pet Food,True,True,3381,5.0,http://lyka.com.au,1300851936,info@lyka.com.au,,Sydney,,4.9,"Animal Feed Store, Pet Supply Store"
+5ff011ae8724670001c870b1,Barney Bed - Luxury Dog Beds & Covers,False,True,504,5.0,http://barneybed.com.au,+61 2 7202 3806,online@barneybed.com,466 Oxford Street,Paddington,2021,4.9,Pet Store
+609dbe49d3a8ed00019fa474,BOIS The Label,False,True,124,5.0,https://boisthelabel.com,,hello@boisthelabel.com,PO Box 126,Brunswick West,3055,4.9,"Clothing Store, Pet Store"
+5989b6090000ff0005a8665a,Jetpets,False,True,352,5.0,http://www.jetpets.com.au,,,Lambeck Drive 64,Tullamarine,3043,4.8,"Pet Moving Service, Pet Store"
+5f65a79bd0db0d000166dcef,PetPat Pet Toys Australia,False,True,286,5.0,https://www.petpat.com.au,(02) 8068 7458,info@petpat.com.au,590 Forest Road,"Penshurst, NSW",2222,4.8,"Pet Store, Pet Supply Store, Toy Store"
+64827f42f7d62151fe6d5dea,Potty Plant,False,True,115,5.0,http://pottyplant.com.au,02 7908 4628,grass@pottyplant.com.au,"16/5 Campbell Parade, NSW",Bondi,2026,4.8,Pet Store
+6370fb11d84a5092a754340b,Petorium,False,True,88,5.0,http://petorium.com.au,,woof@petorium.com.au,,,,4.8,Pet Store
+5a16235a0000ff0005b13e19,EasyWormer,False,True,68,5.0,http://easywormer.com.au,,info@easywormer.com.au,57 Sale St,Orange,2800,4.8,Pet Store
+5c54209f45f25d000151a53c,Charlie Parkers Hound Wear,False,True,59,5.0,http://charlieparkershoundwear.com,,Charlieparkershoundwear@gmail.com,,Sydney,2040,4.8,Pet Store
+62c65fbdb9db3ed04308d022,Rogue Royalty,False,True,713,4.5,http://rogueroyalty.com.au,02 46207660,info@rogueroyalty.com.au,"unit 1, 49 Blaxland Road ",Campbelltown,2560,4.7,Pet Supply Store
+5e6977f871876d00014e38c2,Smiley Dog,True,True,141,4.5,http://www.smileydog.com.au,+61395803005,sales@smileydog.com.au,2/32 Jarrah Drive,Braeside,VIC 3195,4.7,"Pet Store, Pet Groomer, Pet Supply Store"
+601fd4cb54a8330001db5028,Jerry Bags,False,True,46,4.5,http://jerrybags.com,,,,,,4.7,Pet Store
+6371a15f1ac130d453992eee,Antinol Australia,False,True,40,4.5,http://antinol.com.au,0755688230,hello@antinol.com.au,,,,4.7,Pet Supply Store
+5961edb60000ff0005a644b8,Teacup Nethies,False,True,28,4.5,http://www.teacupnethies.com.au,,james@teacupnethie.com.au,3 Little Tamban Road,Eungai Creek,2441,4.7,Pet Store
+655ac7526d6d12910d2e0059,Nestyboxes,False,True,25,4.5,https://www.nestyboxes.com.au,,sales@nestyboxes.com.au,,,,4.7,"Animal Feed Store, Pet Supply Store"
+5e8c1b0bb12e1e00015e0702,Fetchedco,False,True,133,4.5,http://fetchedco.com.au,,hello@fetchedco.com.au,,,,4.6,Pet Supply Store
+62755cf0f3faf0a9284b0ca6,Doggy Hampers,False,True,33,4.5,http://doggyhampers.com.au,,support@doggyhampers.com,Jeanne Drive,Victoria Point,4165,4.6,"Pet Store, Corporate Gift Supplier, Gift Shop"
+65d6ad1b8261c625e63bb7e7,Prime100,False,True,19,4.5,http://prime100.com.au,(03) 9394 1428,info@prime100.com.au,1/49 Calarco Drive,Derrimut,3026,4.6,Pet Supply Store
+633ef09576f576c61dbff633,Archie Bed,False,True,17,4.5,http://archiebed.com.au,1800 272 443 (1800 ARCHIE),woof@archiebed.com.au,81-83 Campbell Street,Surry Hills,2010,4.6,Pet Supply Store
+5534d8070000ff00057ee04b,Pet Circle,False,True,5861,4.5,https://www.petcircle.com.au,1300 608 003,sales@petcircle.com.au,Level 7/9 Castlereagh St,Sydney,2000,4.5,Pet Store
+5f20d7a7c2070f0001e625f5,Perfect Bowl,False,True,99,4.5,https://perfectbowl.com.au,1300 625 490,contact@perfectbowl.com.au,PO Box 1522,Warriewood,2102,4.5,"Animal Feed Store, Pet Supply Store"
+62ac0882df6e78d03b06fed6,Dolphin & Dog,False,True,16,4.5,http://dolphinanddog.com.au,,scott@dolphinanddog.com,,,,4.5,Pet Store
+5e6e20ebbc92ef000172eb82,PetPost,False,True,290,4.5,https://petpost.com.au,1300146499,info@petpost.com.au,,,,4.4,Pet Store
+5a86ac2cad1f8e000134a13e,klika.com.au,False,True,94,4.5,http://klika.com.au,0397900055,sales@klika.com.au,41-45 Mills Road,Braeside,3195,4.4,"Pet Store, Warehouse store, Online Marketplace, Department Store, Living Room Furniture Store, Shopping Mall"
+617187614113cdbef119a701,FYDOO®,False,True,13,4.5,http://fydoo.com,,info@fydoo.com,,Sydney,,4.4,"Pet Store, Pet Supply Store"
+61e5ffaf81425751f3714e5c,Wags & Whisky,False,True,12,4.5,http://wagsandwhisky.com.au,,info@wagsandwhisky.com.au,,,,4.4,"Bags and Luggage Store, Pet Supply Store, Pet Store, Bag Shop, Handbags Shop"
+627c0057360c88fe8abc53d1,Doggy Eco,False,True,12,4.5,http://doggyeco.com.au/,,support@doggyeco.com,Jeanne Drive,Victoria Point,4165,4.4,Pet Store
+5e4f819838d2d60001f5e736,Tailz,False,True,185,4.5,http://tailz.com.au,,support@tailz.com.au,,Perth,,4.3,Pet Supply Store
+6227be594824ccade4a50333,Pups and Beds,False,True,34,4.5,http://pupsnbeds.com.au,+61435107675,welisten@pupsnbeds.com.au,"Sydney Warehouse, G2/391 Park Road",Regents Park,2143,4.3,Pet Store
+63d894db70160120c5da652c,Always In My Heart ,False,True,23,4.5,http://alwaysinmyheart.com.au,0455 100054,sales@alwaysinmyheart.com.au,PO Box 965,Balcatta,6914,4.3,"Jewelry Store, Pet Supply Store, Wholesale Jeweler, Pet Funeral Service"
+62aa540d0eaf87fd8a3cd09e,Snug Society,False,True,9,4.5,http://snugsociety.com.au,,hello@snugsociety.com.au,Melbourne,Melbourne,3207,4.3,Pet Store
+66276285a287948d7e83855e,Marlo Pets,False,True,9,4.5,http://marlopets.com,,woof@marlopets.com, Bendall Street,Kensington,3031,4.3,Pet Supply Store
+621b232957410b5d9ae62bd3,Red Hair & Dogs,False,True,9,4.5,https://www.redhairanddogs.com.au,,,,,,4.3,"Pet Supply Store, Hair Product Store"
+5e58c08b65fc2a0001249dc7,Petzoo,False,True,41,4,http://www.petzoo.com.au,,,,,,4.2,Pet Store
+623a5a44d967e34a88fafde2,Bella and Bear Pet Co,False,True,25,4,http://bellaandbearpetco.com.au,,info@bellaandbearpetco.com.au,,Sydney,2000,4.2,Pet Store
+6642e6fdb1f8e56e94f3e6f5,Dogz & Co,False,True,7,4,http://dogzandco.com.au,0433404315,sales@dogzandco.com.au,PO Box Elsternwick 1106,Melbourne,3185,4.2,"Pet Supply Store, Cleaning Products Supplier"
+61287216fa2ebf001de57f33,Vivki Australia,False,True,6,4,http://vivki.com.au,1300 409 360,customers@vivki.com.au,68 York St,Indooroopilly,4068,4.2,"Pet Supply Store, Home Goods Store"
+65336b4c18e86bb459a45412,Bandit Pets,False,True,6,4,http://banditpets.com.au,,woof@banditpets.com.au,22 Bendall St,Melbourne,3031,4.2,Pet Supply Store
+53b3aada000064000579041f,VetShopMax,False,True,120,4,http://www.vetshopmax.com,,info@vetshopmax.com,,,,4.1,"Pharmacy, Veterinarian, Pet Store, Hobby Store"
+6145df6eb120a5001db9cd57,Oh My Paws,False,True,44,4,http://ohmypaws.com.au,0447609995,info@ohmypaws.com.au,201/26-30,Collingwood,3066,4.1,"Pet Store, Pet Supply Store"
+61b19f73bb362cd57fe32406,Rarafresh,True,True,11,4,http://rarafresh.com.au,,info@rarafresh.com.au,,sydney,,4.1,"Pet Supply Store, Animal Feed Store, Meal Delivery, Pet Store, Food Producer"
+641819be4d729569d0f945ce,COMFYPAWS,False,True,6,4,http://comfypaws.com.au,+61 0435 295 824,customercare@comfypaws.com.au,21 Colchester Avenue,Cranbourne West,3977,4.1,Pet Store
+6620c12ef6a0863f5cb400ec,Mr. Baloo - Stainless Steel Litter Boxes,False,True,5,4,http://mrbaloo.com.au,0476 953 556,info@mrbaloo.com.au,,Mulgrave,3170,4.1,Pet Supply Store
+64fac578b6f88feb7da89274,Pet Variety,False,True,5,4,http://petvariety.com.au,(02) 4607 2685,hello@petvariety.com.au,PO Box 295,Minto,2566,4.1,Pet Supply Store
+6365a2773d3336618867f538,Scruffer,False,True,5,4,http://scruffer.com.au,,,,,,4.1,Pet Store
+5bc69e201ddb0e00014fc6e1,Oh Crap,False,True,349,4,https://www.ohcrap.com.au,1300 36 24 76,team@ohcrap.com.au,PO Box 6337,Highton,3216,4.0,Pet Store
+5f9015b917e2a10001c7b89c,Petmarket,False,True,331,4,http://petmarket.com.au,,info@petmarket.com.au,21 Shiny Drive,Melbourne,,4.0,"Pet Supply Store, Pet Store, Online Marketplace"
+6328fb3c79bf20674ba9b96d,Best Buds,False,True,30,4,http://best-buds.co,,contact@best-buds.co,Royal Exchange NSW 1225 ,Sydney,1225,4.0,"Health and Beauty Shop, Pet Supply Store, Vitamin and Supplements Store"
+6617768e651a538b761a4e7b,Barkery Avenue,False,True,5,4,http://barkeryavenue.com.au,,hello@BarkeryAvenue.com.au,New South Wales,Rosemeadow,2560,4.0,Pet Supply Store
+6138371a3f5fae001d708cf7,ONE With Everything!,False,True,4,4,http://onewitheverything.com.au,,,,,,4.0,"Animal Feed Store, Pet Store"
+5def721095e2f80001b20a98,Barket,False,True,3,4,http://www.barket.com.au,,hello@barket.com.au,,,,4.0,Pet Store
+5ed323a50a6b9700019b001d,Big Red Fencing,False,True,4,4,https://www.bigredfencing.com.au/,1300 244 733,mail@bigredfencing.com.au,15c 24 Dexter St,Moorooka,4105,3.9,"Equestrian Store, Agricultural Product Wholesaler, Animal Control Service, Pet Supply Store, Farm Equipment Supplier"
+65f7740f83c045fd41e8e2f1,Aquatic Live Food,False,True,8,4,https://aquaticlivefood.com.au,,hello@aquaticlivefood.com.au,Ballarto Road,Carrum Downs,3201,3.8,Aquarium Shop
+6550d4ee775c37f4d785584f,Leghari Cavoodle,False,True,3,4.0,http://legharicavoodle.com,+61 8 6102 8507,Info@legharicavoodle.com,"40 Britomart Gardens, Alawa NT 0810, Australia",Alawa,0810,3.8,Pet Store
+614ef1604813b7001d231db9,"LuvXpaW - Pet Luxury Accessories, Treats & Toys",False,True,2,4.0,http://luvxpaw.com,(02) 4620 5496,info@luvxpaw.com,U8/26-28 Kingsclare St,Leumeah,2560,3.8,Pet Supply Store
+64b9f55a1c6ee60ed81cbb58,Wolfie & Whisker,False,True,2,4.0,http://wolfieandwhisker.com,,customercare@arkdistribution.com.au,32/1 Tilbury Rise,Upper Coomera,4209,3.8,Pet Store
+64740fd3a10721677e3d7e45,Yourpetsremedy,False,True,2,4.0,http://yourpetsremedy.com,,hello@yourpetsremedy.com,Burleigh Heads,Gold Coast,4220,3.8,Pet Store
+60aed2a3117c42000178c64e,Itchy Paws,False,True,2,4.0,http://itchypaws.com.au,,hello@itchypaws.com.au,,,,3.8,Pet Store
+64ba03dc11c8af68008b2484,Dexie & Loki co,False,True,2,4.0,http://dexieloki.co,0476448503,Contact@dexieloki.co,13 Federation Avenue,Broadbeach,4288,3.8,Pet Store
+5ff2a1a8b391a00001aa91ca,Petzyo,False,True,2,4.0,http://petzyo.com.au,03 9000 0523,yo@petzyo.com.au,11 Wilson St,South Yarra,3141,3.8,Pet Store
+669dc7c2a28d00325aad6784,Saizengrooming,False,True,2,4.0,http://saizengrooming.com,,,,,,3.8,"Pet Supply Store, Pet Groomer"
+62f087165a57dde6d418b907,Aussie Dog Lovers,False,True,154,3.5,http://aussiedoglovers.com.au,1800 364 568,admin@aussiedoglovers.com.au,Airds Road,Campbelltown,2560,3.7,"Pet Adoption Service, Pet Store, Pet Groomer, Pet Supply Store, Animal Rescue Service, Veterinarian"
+601e7f9ca023a00001084a31,Pet Parlor,False,True,23,3.5,http://petparlor.com.au,,admin@petparlor.com.au,,perth,6100,3.7,"Pet Store, Pet Supply Store"
+63fea4153bc1d706eadc1b3c,Petsbest,False,True,4,3.5,http://petsbest.com.au,,,,,,3.7,"Pet Store, Pet Supply Store, Pet-Friendly Accommodation"
+618b3135ef04b4a476e2680f,Frenchie & Friends co ,False,True,2,3.5,http://frenchieandfriendsco.com,,support@frenchieandfriendsco.com,401/3 olive york way,brunswick west ,3055,3.7,Pet Supply Store
+617249fa6fc555750dd82260,Easypeazzy,False,True,1,3.5,http://easypeazzy.com,0422460819,info@easypeazzy.com,,,,3.7,Pet Supply Store
+60ac89f534168c0001d8f47a,Pupperdog,False,True,1,3.5,http://pupperdog.com.au,,info@pupperdog.com.au,,Sydney,,3.7,"Pet Store, Pet Supply Store"
+65d3e89ec884c17a3122ee8f,Furbo Fresh,False,True,1,3.5,http://furbofresh.com,,,,,,3.7,Pet Supply Store
+62565a3d85711e7bcb45713a,ilume,False,True,1,3.5,http://weareilume.com,,,,,,3.7,"Food Producer, Pet Store"
+630251f47345b82e7132ddd7,howlerpetfoods.com.au,False,True,1,3.5,http://howlerpetfoods.com.au,,help@howlerpetfoods.com.au,1 Albert Street,Moolap,3224,3.7,Pet Store
+622f25e48d7b1f06076e9928,ZALA AND FRIENDS,False,True,1,3.5,http://zalaandfriends.com,,,,,,3.7,Pet Supply Store
+61a1653eac0e79961197683d,Enjoynowpaylater,False,True,1,3.5,http://enjoynowpaylater.com.au,,contactus@enjoynowpaylater.com.au,level 13 2-26 park street,sydney,2000,3.7,"Lawn Mower Store, Online Marketplace, Pet Supply Store, Appliance Store, Computer and Accessories Store, Furniture Store"
+61da5368c46eb3ac398d1511,Sassy Treats (and Real Food),False,True,1,3.5,http://sassytreats.com.au,0419269266,orders@sassytreats.com.au,PO BOX 371 Broadway,Sydney,2007,3.7,Animal Feed Store
+5cecc13f0e7385000117a76b,Pet Home Direct AU,False,True,5,3.5,http://pethomedirect.com.au,,support@pethomedirect.com.au,,Melbourne,3000,3.5,Pet Store
+65f4db4d99c65c08383c53fa,Discount Apoquel,False,True,10,3.5,http://discountapoquel.com,,,,,,3.4,Pet Supply Store
+5f58ad50c15b2700017c540b,Red Dingo,False,True,7,3.5,http://reddingo.com,,marketing@reddingo.com,4/11 Sydenham Road,Brookvale,2100,3.4,Pet Supply Store
+6233cb04c1f6d2e6e47b6cc9,Buddy Pet,False,True,45,3.5,https://buddypet.co,1300402420,hey@buddypet.co,365 Little Collins Street,Melbourne,3000,3.3,"Pet Store, Pet Supply Store"
+5fc377efab28670001130282,urinefree.com.au,False,True,1,3.0,http://urinefree.com.au, 03 9318 0996,sales@urinefree.com.au,PO Box 648,North Balwyn,3104,3.2,Pet Supply Store
+613b119a72f812001d43125e,Chacon the Conscious Cat Store,False,True,9,3.0,http://chacon.com.au,(02) 8060 6396,info@chacon.com.au,Pearl street ,Erskineville ,2043,2.9,Pet Store
+601b76fa5412ac0001fa58c3,The Pet Bucket,False,True,2,3.0,https://www.thepetbucket.com,,support@thepetbucket.com,,,,2.9,Pet Supply Store
+60acd4191aeec100018cead4,Petculture,False,True,5,3.0,https://www.petculture.com.au/,,,,,,2.8,Pet Store
+579fe9070000ff000592fefd,PetCloud,False,True,155,2.5,https://www.petcloud.com.au,1300 66 77 85,service@petcloud.com.au,"315 Brunswick St, [TCB Building, The Precinct, Level 2]",Fortitude Valley,4006,2.7,"Pet Store, Pet Sitter"
+61c63b491afb37000a74e95d,Petso Pty Ltd,False,True,27,2.5,http://petso.com.au,1300 755 078,info@petso.com.au,6A Leeds Street,Rhodes,2138,2.7,Pet Supply Store
+5ea145b93cb6bd000118e288,i.Pet Australia,False,True,18,2.5,http://ipet-au.com,,,,,,2.5,Pet Supply Store
+61ddaf3a6cb5355910eb9a26,Hakuna Pets,False,True,6,2.5,http://hakunapets.com.au,,,,,,2.5,Pet Supply Store
+5efa9a1cf1f92f0001ab8cff,Petnest Australia,False,True,23,2.5,https://petnest.com.au,0286253317,hema@sahai.com.au,"unit 1, 2-4 Tasha Pl",Kings Park,2148,2.4,Pet Store
+54ee86490000ff00057dada1,Budgetpetproducts,False,True,65,2.5,http://www.budgetpetproducts.com.au,,,,,,2.3,Pet Supply Store
+658a279be8a83e7a9723b019,myrainbowpets.com.au,False,True,40,2.0,http://www.myrainbowpets.com.au,,contact@myrainbowpets.com.au,,,,2.2,Pet Store
+5f08160667e4950001995ec2,Petbarn,False,True,77,2.0,http://www.petbarn.com.au,,,,,,2.1,Pet Supply Store
+5fbd26132bf7fb00015d5ef1,Puppy Creche,False,True,67,2.0,http://puppycreche.com,,info@puppycreche.com,,,,2.1,Pet Store
+613c53059e1fe6001d5124f1,dogee,False,True,24,1.5,http://doee.com,,dogeel@gmail.com, Union Street,Melbourne,3020,1.6,Pet Store
+618917a6ddff9654d6a34b97,misterwoofs.com,False,True,110,1.5,http://misterwoofs.com,,,,,,1.3,Pet Store
+6639e6c9dc46cbf72898f055,Pet Wizard,False,True,0,0.0,https://petwizard.com.au,1300821096,support@petwizard.com.au,5 Inglis Road,Ingleburn,2565,0.0,Pet Supply Store
+5f2166da703639000186207a,Happy Dog Tribe,False,True,0,0,http://happydogtribe.com.au,,hello@happydogtribe.com.au,,,,0,Pet Supply Store
+644f310fe51cd427d1f65a72,Central Animal Records,False,True,0,0,http://car.com.au,0397063187,info@car.com.au,22 Fiveways Boulevard,Keysborough,3173,0,Pet Store
+658101b6b0b819a7367b950d,SNUPZ,False,True,0,0,http://snupz.store,,,,,,0,Pet Store
+66ade51497a240b236b79f36,CreepyCrawlys.com,False,True,0,0,http://creepycrawlys.com,0886411804,info@creepycrawlys.com,3 Evans Place,Port Augusta,5700,0,Pet Store
+6006b9c77cbcd20001132967,The Pooch Beauty Salon,False,True,0,0,https://www.thepoochbeautysalon.com.au/,+61393910178,poochbeautysalon1@gmail.com,3 Misten Avenue,Altona North,3205,0,Pet Store
+63fc399a53044ed29109e585,charlies.pet,False,True,0,0,http://charlies.pet,(02)97381118,info@charlies.pet,33 Rose Crescent,AUBURN,2144,0,Pet Supply Store
+601f4a78f1069f0001553830,Fayie,False,True,0,0,http://fayie.net,,,,,,0,Pet Supply Store
+605c9f5c18c6cc0001b43f6d,Obedientpet,False,True,0,0,http://obedientpet.com.au,,info@obedientpet.com.au,"Suite 104, 101-103  Pilbara Street",Welshpool,6106,0,Pet Supply Store
+65b19653a1fd79b35fb00aab,Fetch & Bark,False,True,0,0,http://fetchnbark.com,,info@fetchnbark.com,1 Ferry rd,West End,4101,0,Pet Supply Store
+64eb1e47eb19c09f7c98e0b4,Milosbackyard.com,False,True,0,0,http://milosbackyard.com,1300 171 685,hello@milosbackyard.com,81-83 Campbell Street,Surry Hills,2010,0,"Outdoor Swimming Pool, Outdoor Sports Store, Toy Store, Pet Store"
+5c9ae924184db30001a494df,Olly's Box,False,True,0,0,http://ollysbox.com.au,,bark@ollysbox.com.au,1/6 Booran Drive,Underwood,4114,0,Pet Supply Store
+5d3fba69c38c3300017c31ed,MediTools,False,True,0,0,http://meditools.com.au,,,Fawkner Lane 13,Craigieburn,3064,0,Pet Supply Store
+6136da235a1708001d77991f,Petkey Australia,False,True,0,0,http://www.petkey.com.au,,support@petkey.com.au,,,,0,Pet Store
+61471e5f133ecf001df7cf68,Nexxg Australia,False,True,0,0,http://nexxg.com.au,1300-81-5522,info@nexxg.com.au,Strathfield,Sydney,2135,0,"Children's Toys Store, Pet Store, Appliance Store, Children's Furniture Store, Furniture Store, Electronics Store"
+64a561a9152c571a851b9fa3,Giveasht,False,True,0,0,http://giveasht.com,,,,,,0,Pet Supply Store
+622f963d535b43c191ffc58e,Dog Yog,False,True,0,0,http://dogyog.com.au,,,,,,0,Pet Store
+626df543b20c2ee8e0c34698,Magnus and Paws,False,True,0,0,http://magnusandpaws.com,,magnusandpaws@gmail.com,,,,0,Pet Supply Store
+6147ee72b120a5001db9f2e6,Fetchit,False,True,0,0,http://fetchit.com.au,,,,,,0,Pet Store
+614e7b83cf8e6f001d629f3c,Qhaustralia,False,True,0,0,https://qhaustralia.com.au,0451608308,info@qhaustralia.com.au,124 Dutton ST,Sydney,2199,0,"Bedroom Furniture Store, Furniture Accessories, Safety and Work Wear Store, Pet Store"
+6666d14eda91c10778ea0432,Wonderfur,False,True,0,0,http://wonderfur.com.au,,hello@wonderfur.com.au,26/9  Salisbury Road,Castle Hill,2145,0,Pet Store
+61471e5f133ecf001df7cf68,Nexxg Australia,False,True,0,0,http://nexxg.com.au,1300-81-5522,info@nexxg.com.au,Strathfield,Sydney,2135,0,"Children's Toys Store, Pet Store, Appliance Store, Children's Furniture Store, Furniture Store, Electronics Store"
+65d05e47719a1ee4124762ca,The Cat Den,False,True,0,0,http://thecatden.com.au,0426632662,contact@thecatden.com.au,35 Grover Way,Ellenbrook,6069,0,"Pet Supply Store, Pet Store"
+65f2378aee4431fef0b1733e,vetslovepets.com.au,False,True,0,0,http://vetslovepets.com.au,1300 155 550,support@vetslovepets.com.au,Unit 2/38 Colin Street,Perth,6005,0,"Pet Supply Store, Pet Store"
+62d80c101f5812d066db0026,Luxe Treasures Oz ,False,True,0,0,http://luxetreasures.com.au,,,,,,0,"Baby Store, Home Goods Store, Pet Store, Outdoor Furniture Store, Children's Toys Store, Children's Furniture Store"
+6530e3654c29174a0f82b729,Woofworld,False,True,0,0,http://woofworld.com.au,0416174151,support@woofworld.com.au,Victoria,Melbourne,3000,0,Pet Store
+66189d1c6d372c9db30a7d2a,Cutepet,False,True,0,0,http://cutepet.com.au,,support@cutepet.com.au,81-83 Campbell Street Surry Hills NSW 20,Surry Hills,2010,0,Pet Store
+6494be689c7e619727ef22ea,Aussie Cat Hammocks,False,True,0,0,http://aussiecathammocks.com.au,,contact@aussiecathammocks.com.au,PO Box 5846 ,Maroochydore ,4575,0,Pet Supply Store
+616fbfabca6e77f38925e317,The Pet Family Store,False,True,0,0,http://thepetfamilystore.com.au,0413806791,contact@thepetfamilystore.com.au,45 MANSON RD,HENDRA QLD 4011,4011,0,Pet Supply Store
+65d294a88bf6e5ef5ab61a4c,Petsgear,False,True,0,0,http://petsgear.com.au,,info@petsgear.com.au,335 S Gippsland Hwy,Dandenong South,3175,0,Pet Supply Store
+65b20eb094caa4c0b17f0998,Lucee Designs,False,True,0,0,http://luceedesigns.square.site,,LuceeDesigns@yahoo.com,Haskell Drive,Whyalla Jenkins,5609,0,Pet Supply Store
+629568608da6978dc47ab0ad,Thebrisbanebarkery,False,True,0,0,http://thebrisbanebarkery.com.au,,,,,,0,Pet Supply Store
+62bdb5fb6a6aea301bdbd506,Aquacircle,False,True,0,0,http://aquacircle.com.au,,support@aquacircle.com.au,7 Thurmand Court,Roxburgh Park,3064,0,Pet Store
+650f65f9680c183fe3a675c4,Whippy Tail,False,True,0,0,http://whippytail.com.au,,support@whippytail.com.au,22 Bronco Cres,Gracemere,4702,0,Pet Supply Store
