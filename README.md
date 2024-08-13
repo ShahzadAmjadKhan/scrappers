@@ -9,5 +9,6 @@ This repository contain scrappers developed to extract required data from differ
 6. US High Schools [details](high-schools/README.md)
 7. hochschuljobboerse [details](hochschuljobboerse/README.md)
 8. Landmodo [details](landmodo/README.md)
+9. Trust Pilot Australia [details](trustpilot/README.md)
 
 
