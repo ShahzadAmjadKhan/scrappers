@@ -5,11 +5,13 @@
 # Solution
 - Script uses playwright to interact with https://www.rcdso.org/find-a-dentist 
 - It searches for each specialty of the dentistary 
-- For each search result, it extracts the Name, status, registeration number, primary practice address and phone (if available) 
+- For each search result, it extracts the Name, status, registeration number, primary practice address and phone (if available)
+using beautiful soup
 
 # Language & Tools
 - Python
 - Playwright
+- Beautiful Soup
  
 # Sample JSON Response
 
