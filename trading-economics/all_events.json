@@ -1,0 +1,2864 @@
+[
+  {
+    "date": "Monday October 17 2022",
+    "time": "05:30 PM",
+    "event": "NY Empire State Manufacturing Index OCT",
+    "actual": "-9.1",
+    "previous": "-1.5",
+    "consensus": "-4",
+    "forecast": "-1"
+  },
+  {
+    "date": "Monday October 17 2022",
+    "time": "08:30 PM",
+    "event": "3-Month Bill Auction",
+    "actual": "3.82%",
+    "previous": "3.51%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 17 2022",
+    "time": "08:30 PM",
+    "event": "6-Month Bill Auction",
+    "actual": "4.245%",
+    "previous": "4.03%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "05:55 PM",
+    "event": "Redbook YoY OCT/15",
+    "actual": "8%",
+    "previous": "8.3%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "06:15 PM",
+    "event": "Industrial Production MoM SEP",
+    "actual": "0.4%",
+    "previous": "-0.1%\n\n                        \u00ae",
+    "consensus": "0.1%",
+    "forecast": "-0.1%"
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "06:15 PM",
+    "event": "Industrial Production YoY SEP",
+    "actual": "5.3%",
+    "previous": "3.9%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "3.4%"
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "06:15 PM",
+    "event": "Capacity Utilization SEP",
+    "actual": "80.3%",
+    "previous": "80.1%\n\n                        \u00ae",
+    "consensus": "80%",
+    "forecast": "79.8%"
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "06:15 PM",
+    "event": "Manufacturing Production MoM SEP",
+    "actual": "0.4%",
+    "previous": "0.4%\n\n                        \u00ae",
+    "consensus": "0.2%",
+    "forecast": "0.2%"
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "06:15 PM",
+    "event": "Manufacturing Production YoY SEP",
+    "actual": "4.7%",
+    "previous": "3.5%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "3.1%"
+  },
+  {
+    "date": "Tuesday October 18 2022",
+    "time": "07:00 PM",
+    "event": "NAHB Housing Market Index OCT",
+    "actual": "38",
+    "previous": "46",
+    "consensus": "43",
+    "forecast": "47"
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "01:00 AM",
+    "event": "Net Long-term TIC Flows AUG",
+    "actual": "$197.9B",
+    "previous": "$21.4B",
+    "consensus": "$28.2B",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "01:00 AM",
+    "event": "Foreign Bond Investment AUG",
+    "actual": "$174.2B",
+    "previous": "$23.1B",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "01:00 AM",
+    "event": "Overall Net Capital Flows AUG",
+    "actual": "$275.6B",
+    "previous": "$154B\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "01:30 AM",
+    "event": "API Crude Oil Stock Change OCT/14",
+    "actual": "-1.27M",
+    "previous": "7.054M\n\n                        \u00ae",
+    "consensus": "1.551M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "02:30 AM",
+    "event": "Fed Kashkari Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "04:00 PM",
+    "event": "MBA 30-Year Mortgage Rate OCT/14",
+    "actual": "6.94%",
+    "previous": "6.81%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Applications OCT/14",
+    "actual": "-4.5%",
+    "previous": "-2%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Market Index OCT/14",
+    "actual": "204.6",
+    "previous": "214.3",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Refinance Index OCT/14",
+    "actual": "394.6",
+    "previous": "423.2",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "04:00 PM",
+    "event": "MBA Purchase Index OCT/14",
+    "actual": "164.2",
+    "previous": "170.5",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "05:30 PM",
+    "event": "Building Permits SEP",
+    "actual": "1.564M",
+    "previous": "1.542M",
+    "consensus": "1.53M",
+    "forecast": "1.487M"
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "05:30 PM",
+    "event": "Building Permits MoM SEP",
+    "actual": "1.4%",
+    "previous": "-8.5%",
+    "consensus": "",
+    "forecast": "-2%"
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "05:30 PM",
+    "event": "Housing Starts SEP",
+    "actual": "1.439M",
+    "previous": "1.566M\n\n                        \u00ae",
+    "consensus": "1.475M",
+    "forecast": "1.465M"
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "05:30 PM",
+    "event": "Housing Starts MoM SEP",
+    "actual": "-8.1%",
+    "previous": "13.7%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "-7%"
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Stocks Change OCT/14",
+    "actual": "-1.725M",
+    "previous": "9.88M",
+    "consensus": "1.38M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Stocks Change OCT/14",
+    "actual": "-0.114M",
+    "previous": "2.023M",
+    "consensus": "-1.114M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Imports Change OCT/14",
+    "actual": "-1.421M",
+    "previous": "1.795M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Cushing Crude Oil Stocks Change OCT/14",
+    "actual": "0.583M",
+    "previous": "-0.309M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Fuel Production Change OCT/14",
+    "actual": "0.16M",
+    "previous": "-0.325M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Stocks Change OCT/14",
+    "actual": "0.124M",
+    "previous": "-4.853M",
+    "consensus": "-2.167M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Production Change OCT/14",
+    "actual": "0.213M",
+    "previous": "-0.846M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Heating Oil Stocks Change OCT/14",
+    "actual": "-0.543M",
+    "previous": "0.431M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "07:30 PM",
+    "event": "EIA Refinery Crude Runs Change OCT/14",
+    "actual": "-0.133M",
+    "previous": "-0.278M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "10:00 PM",
+    "event": "Fed Kashkari Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "10:00 PM",
+    "event": "20-Year Bond Auction",
+    "actual": "4.395%",
+    "previous": "3.820%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 19 2022",
+    "time": "11:00 PM",
+    "event": "Fed Beige Book",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "03:30 AM",
+    "event": "Fed Evans Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "04:30 AM",
+    "event": "Fed Bullard Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Initial Jobless Claims OCT/15",
+    "actual": "214K",
+    "previous": "226K\n\n                        \u00ae",
+    "consensus": "230K",
+    "forecast": "230K"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philadelphia Fed Manufacturing Index OCT",
+    "actual": "-8.7",
+    "previous": "-9.9",
+    "consensus": "-5",
+    "forecast": "-6"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philly Fed Employment OCT",
+    "actual": "28.5",
+    "previous": "12",
+    "consensus": "",
+    "forecast": "10"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Continuing Jobless Claims OCT/08",
+    "actual": "1385K",
+    "previous": "1364K\n\n                        \u00ae",
+    "consensus": "1375K",
+    "forecast": "1370K"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Jobless Claims 4-week Average OCT/15",
+    "actual": "212.25K",
+    "previous": "211K\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "213K"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philly Fed Business Conditions OCT",
+    "actual": "-14.9",
+    "previous": "-3.9",
+    "consensus": "",
+    "forecast": "-2.5"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philly Fed CAPEX Index OCT",
+    "actual": "4.4",
+    "previous": "4.6",
+    "consensus": "",
+    "forecast": "4.1"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philly Fed New Orders OCT",
+    "actual": "-15.9",
+    "previous": "-17.6",
+    "consensus": "",
+    "forecast": "-13"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "05:30 PM",
+    "event": "Philly Fed Prices Paid OCT",
+    "actual": "36.3",
+    "previous": "29.8",
+    "consensus": "",
+    "forecast": "28"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "07:00 PM",
+    "event": "Existing Home Sales SEP",
+    "actual": "4.71M",
+    "previous": "4.78M\n\n                        \u00ae",
+    "consensus": "4.7M",
+    "forecast": "4.7M"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "07:00 PM",
+    "event": "Existing Home Sales MoM SEP",
+    "actual": "-1.5%",
+    "previous": "-0.8%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "-0.8%"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "07:00 PM",
+    "event": "CB Leading Index MoM SEP",
+    "actual": "-0.4%",
+    "previous": "0%\n\n                        \u00ae",
+    "consensus": "-0.3%",
+    "forecast": "-0.2%"
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "07:30 PM",
+    "event": "EIA Natural Gas Stocks Change OCT/14",
+    "actual": "111Bcf",
+    "previous": "125Bcf",
+    "consensus": "105Bcf",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "08:30 PM",
+    "event": "4-Week Bill Auction",
+    "actual": "3.430%",
+    "previous": "3.250%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "08:30 PM",
+    "event": "8-Week Bill Auction",
+    "actual": "3.690%",
+    "previous": "3.480%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "09:00 PM",
+    "event": "Fed Harker Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "10:00 PM",
+    "event": "5-Year TIPS Auction",
+    "actual": "1.732%",
+    "previous": "0.362%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "10:30 PM",
+    "event": "Fed Jefferson Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "10:45 PM",
+    "event": "Fed Cook Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 20 2022",
+    "time": "11:05 PM",
+    "event": "Fed Bowman Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday October 21 2022",
+    "time": "06:10 PM",
+    "event": "Fed Williams Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday October 21 2022",
+    "time": "07:30 PM",
+    "event": "Monthly Budget Statement SEP",
+    "actual": "$-430B",
+    "previous": "$-220B",
+    "consensus": "$-173.5B",
+    "forecast": "$ -230B"
+  },
+  {
+    "date": "Friday October 21 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Oil Rig Count OCT/21",
+    "actual": "612",
+    "previous": "610",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday October 21 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Total Rig Count OCT/21",
+    "actual": "771",
+    "previous": "769",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "05:30 PM",
+    "event": "Chicago Fed National Activity Index SEP",
+    "actual": "0.1",
+    "previous": "0.1\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "0.12"
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Composite PMI Flash OCT",
+    "actual": "47.3",
+    "previous": "49.5",
+    "consensus": "",
+    "forecast": "50.1"
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Manufacturing PMI Flash OCT",
+    "actual": "49.9",
+    "previous": "52",
+    "consensus": "51",
+    "forecast": "51.7"
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Services PMI Flash OCT",
+    "actual": "46.6",
+    "previous": "49.3",
+    "consensus": "49.2",
+    "forecast": "49"
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "08:20 PM",
+    "event": "NY Fed Treasury Purchases 0 to 2.25 yrs",
+    "actual": "",
+    "previous": "",
+    "consensus": "$80M",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "08:30 PM",
+    "event": "3-Month Bill Auction",
+    "actual": "4%",
+    "previous": "3.82%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 24 2022",
+    "time": "08:30 PM",
+    "event": "6-Month Bill Auction",
+    "actual": "4.39%",
+    "previous": "4.245%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "05:55 PM",
+    "event": "Redbook YoY OCT/22",
+    "actual": "8.2%",
+    "previous": "8%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "06:00 PM",
+    "event": "S&P/Case-Shiller Home Price MoM AUG",
+    "actual": "-1.6%",
+    "previous": "-0.8%",
+    "consensus": "-0.7%",
+    "forecast": "-0.3%"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "06:00 PM",
+    "event": "S&P/Case-Shiller Home Price YoY AUG",
+    "actual": "13.1%",
+    "previous": "16%\n\n                        \u00ae",
+    "consensus": "14.4%",
+    "forecast": "15%"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "06:00 PM",
+    "event": "House Price Index AUG",
+    "actual": "392",
+    "previous": "394.6\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "394"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "06:00 PM",
+    "event": "House Price Index MoM AUG",
+    "actual": "-0.7%",
+    "previous": "-0.6%",
+    "consensus": "",
+    "forecast": "-0.3%"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "06:00 PM",
+    "event": "House Price Index YoY AUG",
+    "actual": "11.9%",
+    "previous": "13.9%",
+    "consensus": "",
+    "forecast": "12.6%"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "07:00 PM",
+    "event": "CB Consumer Confidence OCT",
+    "actual": "102.5",
+    "previous": "107.8\n\n                        \u00ae",
+    "consensus": "106.5",
+    "forecast": "107"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "07:00 PM",
+    "event": "Richmond Fed Manufacturing Index OCT",
+    "actual": "-10",
+    "previous": "0",
+    "consensus": "",
+    "forecast": "2"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "07:00 PM",
+    "event": "Richmond Fed Manufacturing Shipments Index OCT",
+    "actual": "-3",
+    "previous": "14",
+    "consensus": "",
+    "forecast": "7"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "07:00 PM",
+    "event": "Richmond Fed Services Index OCT",
+    "actual": "-8",
+    "previous": "0",
+    "consensus": "",
+    "forecast": "2"
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "10:00 PM",
+    "event": "2-Year Note Auction",
+    "actual": "4.460%",
+    "previous": "4.290%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday October 25 2022",
+    "time": "10:55 PM",
+    "event": "Fed Waller Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "01:30 AM",
+    "event": "API Crude Oil Stock Change OCT/21",
+    "actual": "4.52M",
+    "previous": "-1.27M",
+    "consensus": "0.200M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "04:00 PM",
+    "event": "MBA 30-Year Mortgage Rate OCT/21",
+    "actual": "7.16%",
+    "previous": "6.94%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Applications OCT/21",
+    "actual": "-1.7%",
+    "previous": "-4.5%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Market Index OCT/21",
+    "actual": "201.1",
+    "previous": "204.6",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Refinance Index OCT/21",
+    "actual": "394.7",
+    "previous": "394.6",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "04:00 PM",
+    "event": "MBA Purchase Index OCT/21",
+    "actual": "160.4",
+    "previous": "164.2",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "05:30 PM",
+    "event": "Building Permits Final SEP",
+    "actual": "1.564M",
+    "previous": "1.542M",
+    "consensus": "",
+    "forecast": "1.564M"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "05:30 PM",
+    "event": "Goods Trade Balance Adv SEP",
+    "actual": "$-92.22B",
+    "previous": "$-87.28B\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "$-86B"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "05:30 PM",
+    "event": "Retail Inventories Ex Autos MoM Adv SEP",
+    "actual": "-0.1%",
+    "previous": "0.7%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "05:30 PM",
+    "event": "Wholesale Inventories MoM Adv SEP",
+    "actual": "0.8%",
+    "previous": "1.4%\n\n                        \u00ae",
+    "consensus": "1%",
+    "forecast": "0.9%"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "05:30 PM",
+    "event": "Building Permits MoM Final SEP",
+    "actual": "1.4%",
+    "previous": "-8.5%",
+    "consensus": "",
+    "forecast": "1.4%"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:00 PM",
+    "event": "New Home Sales SEP",
+    "actual": "0.603M",
+    "previous": "0.677M\n\n                        \u00ae",
+    "consensus": "0.585M",
+    "forecast": "0.59M"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:00 PM",
+    "event": "New Home Sales MoM SEP",
+    "actual": "-10.9%",
+    "previous": "24.7%\n\n                        \u00ae",
+    "consensus": "-13.9%",
+    "forecast": "-11%"
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Stocks Change OCT/21",
+    "actual": "2.588M",
+    "previous": "-1.725M",
+    "consensus": "1.029M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Stocks Change OCT/21",
+    "actual": "-1.478M",
+    "previous": "-0.114M",
+    "consensus": "-0.805M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Imports Change OCT/21",
+    "actual": "-0.719M",
+    "previous": "-1.421M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Cushing Crude Oil Stocks Change OCT/21",
+    "actual": "0.667M",
+    "previous": "0.583M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Fuel Production Change OCT/21",
+    "actual": "-0.045M",
+    "previous": "0.16M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Stocks Change OCT/21",
+    "actual": "0.17M",
+    "previous": "0.124M",
+    "consensus": "-1.138M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Production Change OCT/21",
+    "actual": "0.056M",
+    "previous": "0.213M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Heating Oil Stocks Change OCT/21",
+    "actual": "-0.285M",
+    "previous": "-0.543M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "EIA Refinery Crude Runs Change OCT/21",
+    "actual": "-0.114M",
+    "previous": "-0.133M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "07:30 PM",
+    "event": "NY Fed Treasury Purchases 10 to 22.5 yrs",
+    "actual": "",
+    "previous": "",
+    "consensus": "$55M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "08:30 PM",
+    "event": "2-Year FRN Auction",
+    "actual": "0.140%",
+    "previous": "0.092%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday October 26 2022",
+    "time": "10:00 PM",
+    "event": "5-Year Note Auction",
+    "actual": "4.192%",
+    "previous": "4.228%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Durable Goods Orders MoM SEP",
+    "actual": "0.4%",
+    "previous": "0.2%\n\n                        \u00ae",
+    "consensus": "0.6%",
+    "forecast": "0.2%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Durable Goods Orders Ex Transp MoM SEP",
+    "actual": "-0.5%",
+    "previous": "0%\n\n                        \u00ae",
+    "consensus": "0.2%",
+    "forecast": "0.4%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "GDP Growth Rate QoQ Adv Q3",
+    "actual": "2.6%",
+    "previous": "-0.6%",
+    "consensus": "2.4%",
+    "forecast": "2.5%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "GDP Price Index QoQ Adv Q3",
+    "actual": "4.1%",
+    "previous": "9.1%",
+    "consensus": "5.3%",
+    "forecast": "8.3%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Initial Jobless Claims OCT/22",
+    "actual": "217K",
+    "previous": "214K",
+    "consensus": "220K",
+    "forecast": "220K"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Continuing Jobless Claims OCT/15",
+    "actual": "1438K",
+    "previous": "1383K\n\n                        \u00ae",
+    "consensus": "1388K",
+    "forecast": "1362K"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Core PCE Prices QoQ Adv Q3",
+    "actual": "4.5%",
+    "previous": "4.7%",
+    "consensus": "4.5%",
+    "forecast": "4.5%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Durable Goods Orders ex Defense MoM SEP",
+    "actual": "1.4%",
+    "previous": "-0.3%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "0.1%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "GDP Sales QoQ Adv Q3",
+    "actual": "3.3%",
+    "previous": "1.3%",
+    "consensus": "",
+    "forecast": "1.9%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Jobless Claims 4-week Average OCT/22",
+    "actual": "219K",
+    "previous": "212.25K",
+    "consensus": "",
+    "forecast": "210K"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Non Defense Goods Orders Ex Air SEP",
+    "actual": "-0.7%",
+    "previous": "0.8%\n\n                        \u00ae",
+    "consensus": "0.5%",
+    "forecast": "0.5%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "PCE Prices QoQ Adv Q3",
+    "actual": "4.2%",
+    "previous": "7.3%",
+    "consensus": "",
+    "forecast": "10.5%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "05:30 PM",
+    "event": "Real Consumer Spending QoQ Adv Q3",
+    "actual": "1.4%",
+    "previous": "2%",
+    "consensus": "",
+    "forecast": "2.2%"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "07:30 PM",
+    "event": "EIA Natural Gas Stocks Change OCT/21",
+    "actual": "52Bcf",
+    "previous": "111Bcf",
+    "consensus": "59Bcf",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "08:00 PM",
+    "event": "Kansas Fed Composite Index OCT",
+    "actual": "-7",
+    "previous": "1",
+    "consensus": "",
+    "forecast": "4"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "08:00 PM",
+    "event": "Kansas Fed Manufacturing Index OCT",
+    "actual": "-22",
+    "previous": "2",
+    "consensus": "",
+    "forecast": "6"
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "08:30 PM",
+    "event": "4-Week Bill Auction",
+    "actual": "3.600%",
+    "previous": "3.430%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "08:30 PM",
+    "event": "8-Week Bill Auction",
+    "actual": "3.820%",
+    "previous": "3.690%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday October 27 2022",
+    "time": "10:00 PM",
+    "event": "7-Year Note Auction",
+    "actual": "4.027%",
+    "previous": "3.898%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Personal Income MoM SEP",
+    "actual": "0.4%",
+    "previous": "0.4%\n\n                        \u00ae",
+    "consensus": "0.3%",
+    "forecast": "0.2%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Personal Spending MoM SEP",
+    "actual": "0.6%",
+    "previous": "0.6%\n\n                        \u00ae",
+    "consensus": "0.4%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Employment Cost - Benefits QoQ Q3",
+    "actual": "1%",
+    "previous": "1.2%",
+    "consensus": "",
+    "forecast": "1.1%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Employment Cost - Wages QoQ Q3",
+    "actual": "1.3%",
+    "previous": "1.4%",
+    "consensus": "",
+    "forecast": "1.5%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Employment Cost Index QoQ Q3",
+    "actual": "1.2%",
+    "previous": "1.3%",
+    "consensus": "1.2%",
+    "forecast": "1.2%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "PCE Price Index MoM SEP",
+    "actual": "0.3%",
+    "previous": "0.3%",
+    "consensus": "",
+    "forecast": "0.2%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "PCE Price Index YoY SEP",
+    "actual": "6.2%",
+    "previous": "6.2%",
+    "consensus": "",
+    "forecast": "6.1%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Core PCE Price Index MoM SEP",
+    "actual": "0.5%",
+    "previous": "0.5%\n\n                        \u00ae",
+    "consensus": "0.5%",
+    "forecast": "0.4%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "05:30 PM",
+    "event": "Core PCE Price Index YoY SEP",
+    "actual": "5.1%",
+    "previous": "4.9%",
+    "consensus": "5.2%",
+    "forecast": "5%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Michigan Consumer Sentiment Final OCT",
+    "actual": "59.9",
+    "previous": "58.6",
+    "consensus": "59.8",
+    "forecast": "59.8"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Pending Home Sales MoM SEP",
+    "actual": "-10.2%",
+    "previous": "-1.9%\n\n                        \u00ae",
+    "consensus": "-5%",
+    "forecast": "-2.5%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Pending Home Sales YoY SEP",
+    "actual": "-31%",
+    "previous": "-24.1%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "-27%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Michigan 5 Year Inflation Expectations Final OCT",
+    "actual": "2.9%",
+    "previous": "2.7%",
+    "consensus": "",
+    "forecast": "2.9%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Michigan Consumer Expectations Final OCT",
+    "actual": "56.2",
+    "previous": "58",
+    "consensus": "",
+    "forecast": "56.2"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Michigan Current Conditions Final OCT",
+    "actual": "65.6",
+    "previous": "59.7",
+    "consensus": "65.3",
+    "forecast": "65.3"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "07:00 PM",
+    "event": "Michigan Inflation Expectations Final OCT",
+    "actual": "5%",
+    "previous": "4.7%",
+    "consensus": "",
+    "forecast": "5.1%"
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Oil Rig Count OCT/28",
+    "actual": "610",
+    "previous": "612",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday October 28 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Total Rig Count OCT/28",
+    "actual": "768",
+    "previous": "771",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 31 2022",
+    "time": "06:45 PM",
+    "event": "Chicago PMI OCT",
+    "actual": "45.2",
+    "previous": "45.7",
+    "consensus": "47",
+    "forecast": "44"
+  },
+  {
+    "date": "Monday October 31 2022",
+    "time": "07:30 PM",
+    "event": "Dallas Fed Manufacturing Index OCT",
+    "actual": "-19.4",
+    "previous": "-17.2",
+    "consensus": "",
+    "forecast": "-18"
+  },
+  {
+    "date": "Monday October 31 2022",
+    "time": "08:30 PM",
+    "event": "3-Month Bill Auction",
+    "actual": "4.07%",
+    "previous": "4%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday October 31 2022",
+    "time": "08:30 PM",
+    "event": "6-Month Bill Auction",
+    "actual": "4.44%",
+    "previous": "4.39%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "03:00 PM",
+    "event": "LMI Logistics Managers Index OCT",
+    "actual": "57.5",
+    "previous": "61.4",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "05:55 PM",
+    "event": "Redbook YoY OCT/29",
+    "actual": "9.7%",
+    "previous": "8.2%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Manufacturing PMI Final OCT",
+    "actual": "50.4",
+    "previous": "52",
+    "consensus": "49.9",
+    "forecast": "49.9"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "ISM Manufacturing PMI OCT",
+    "actual": "50.2",
+    "previous": "50.9",
+    "consensus": "50",
+    "forecast": "50.1"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "JOLTs Job Openings SEP",
+    "actual": "10.717M",
+    "previous": "10.28M\n\n                        \u00ae",
+    "consensus": "10M",
+    "forecast": "10.2M"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "ISM Manufacturing Employment OCT",
+    "actual": "50",
+    "previous": "48.7",
+    "consensus": "",
+    "forecast": "48.2"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "Construction Spending MoM SEP",
+    "actual": "0.2%",
+    "previous": "-0.6%\n\n                        \u00ae",
+    "consensus": "-0.5%",
+    "forecast": "-0.5%"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "ISM Manufacturing New Orders OCT",
+    "actual": "49.2",
+    "previous": "47.1",
+    "consensus": "",
+    "forecast": "47"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "ISM Manufacturing Prices OCT",
+    "actual": "46.6",
+    "previous": "51.7",
+    "consensus": "52.5",
+    "forecast": "51.6"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:00 PM",
+    "event": "JOLTs Job Quits SEP",
+    "actual": "4.061M",
+    "previous": "4.184M\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "4.13M"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:30 PM",
+    "event": "Dallas Fed Services Index OCT",
+    "actual": "-13.6",
+    "previous": "-5.4",
+    "consensus": "",
+    "forecast": "-5"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "07:30 PM",
+    "event": "Dallas Fed Services Revenues Index OCT",
+    "actual": "8.5",
+    "previous": "5.9",
+    "consensus": "",
+    "forecast": "6"
+  },
+  {
+    "date": "Tuesday November 01 2022",
+    "time": "08:30 PM",
+    "event": "52-Week Bill Auction",
+    "actual": "4.505%",
+    "previous": "3.955%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "01:30 AM",
+    "event": "API Crude Oil Stock Change OCT/28",
+    "actual": "-6.53M",
+    "previous": "4.52M",
+    "consensus": "0.267M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "10:00 AM",
+    "event": "Total Vehicle Sales OCT",
+    "actual": "14.90M",
+    "previous": "13.49M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "04:00 PM",
+    "event": "MBA 30-Year Mortgage Rate OCT/28",
+    "actual": "7.06%",
+    "previous": "7.16%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Applications OCT/28",
+    "actual": "-0.5%",
+    "previous": "-1.7%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Market Index OCT/28",
+    "actual": "200.1",
+    "previous": "201.1",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "04:00 PM",
+    "event": "MBA Mortgage Refinance Index OCT/28",
+    "actual": "386.7",
+    "previous": "386.1\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "04:00 PM",
+    "event": "MBA Purchase Index OCT/28",
+    "actual": "160.5",
+    "previous": "161.8\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "05:15 PM",
+    "event": "ADP Employment Change OCT",
+    "actual": "239K",
+    "previous": "192K\n\n                        \u00ae",
+    "consensus": "195K",
+    "forecast": "190K"
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "06:30 PM",
+    "event": "Treasury Refunding Announcement",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Stocks Change OCT/28",
+    "actual": "-3.115M",
+    "previous": "2.588M",
+    "consensus": "0.367M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Stocks Change OCT/28",
+    "actual": "-1.257M",
+    "previous": "-1.478M",
+    "consensus": "-1.358M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Crude Oil Imports Change OCT/28",
+    "actual": "1.229M",
+    "previous": "-0.719M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Cushing Crude Oil Stocks Change OCT/28",
+    "actual": "1.267M",
+    "previous": "0.667M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Fuel Production Change OCT/28",
+    "actual": "0.139M",
+    "previous": "-0.045M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Distillate Stocks Change OCT/28",
+    "actual": "0.427M",
+    "previous": "0.17M",
+    "consensus": "-0.56M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Gasoline Production Change OCT/28",
+    "actual": "0.043M",
+    "previous": "0.056M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Heating Oil Stocks Change OCT/28",
+    "actual": "-0.383M",
+    "previous": "-0.285M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "07:30 PM",
+    "event": "EIA Refinery Crude Runs Change OCT/28",
+    "actual": "0.406M",
+    "previous": "-0.114M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "11:00 PM",
+    "event": "Fed Interest Rate Decision",
+    "actual": "4%",
+    "previous": "3.25%",
+    "consensus": "4%",
+    "forecast": "4%"
+  },
+  {
+    "date": "Wednesday November 02 2022",
+    "time": "11:30 PM",
+    "event": "Fed Press Conference",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "04:30 PM",
+    "event": "Challenger Job Cuts OCT",
+    "actual": "33.843K",
+    "previous": "29.989K",
+    "consensus": "",
+    "forecast": "31K"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Balance of Trade SEP",
+    "actual": "$-73.3B",
+    "previous": "$-65.7B\n\n                        \u00ae",
+    "consensus": "$-72.2B",
+    "forecast": "$-72B"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Exports SEP",
+    "actual": "$258B",
+    "previous": "$260.8B\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "$257B"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Imports SEP",
+    "actual": "$331.3B",
+    "previous": "$326.5B\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "$329B"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Initial Jobless Claims OCT/29",
+    "actual": "217K",
+    "previous": "218K\n\n                        \u00ae",
+    "consensus": "220K",
+    "forecast": "223K"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Nonfarm Productivity QoQ Prel Q3",
+    "actual": "0.3%",
+    "previous": "-4.1%",
+    "consensus": "0.6%",
+    "forecast": "0.4%"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Unit Labour Costs QoQ Prel Q3",
+    "actual": "3.5%",
+    "previous": "8.9%\n\n                        \u00ae",
+    "consensus": "4.1%",
+    "forecast": "3.7%"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Continuing Jobless Claims OCT/22",
+    "actual": "1485K",
+    "previous": "1438K",
+    "consensus": "1450K",
+    "forecast": "1430K"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "05:30 PM",
+    "event": "Jobless Claims 4-week Average OCT/29",
+    "actual": "218.75K",
+    "previous": "219.25K\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "225K"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Composite PMI Final OCT",
+    "actual": "48.2",
+    "previous": "49.5",
+    "consensus": "47.3",
+    "forecast": "47.3"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "06:45 PM",
+    "event": "S&P Global Services PMI Final OCT",
+    "actual": "47.8",
+    "previous": "49.3",
+    "consensus": "46.6",
+    "forecast": "46.6"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "ISM Non-Manufacturing PMI OCT",
+    "actual": "54.4",
+    "previous": "56.7",
+    "consensus": "55.5",
+    "forecast": "54.5"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "Factory Orders MoM SEP",
+    "actual": "0.3%",
+    "previous": "0.2%\n\n                        \u00ae",
+    "consensus": "0.3%",
+    "forecast": "0.2%"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "ISM Non-Manufacturing Employment OCT",
+    "actual": "49.1",
+    "previous": "53",
+    "consensus": "",
+    "forecast": "51"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "Factory Orders ex Transportation SEP",
+    "actual": "-0.1%",
+    "previous": "0.1%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "-0.3%"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "ISM Non-Manufacturing Business Activity OCT",
+    "actual": "55.7",
+    "previous": "59.1",
+    "consensus": "",
+    "forecast": "58.2"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "ISM Non-Manufacturing New Orders OCT",
+    "actual": "56.5",
+    "previous": "60.6",
+    "consensus": "",
+    "forecast": "59.5"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:00 PM",
+    "event": "ISM Non-Manufacturing Prices OCT",
+    "actual": "70.7",
+    "previous": "68.7",
+    "consensus": "",
+    "forecast": "68"
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "07:30 PM",
+    "event": "EIA Natural Gas Stocks Change OCT/28",
+    "actual": "107Bcf",
+    "previous": "52Bcf",
+    "consensus": "97Bcf",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "08:30 PM",
+    "event": "4-Week Bill Auction",
+    "actual": "3.620%",
+    "previous": "3.600%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 03 2022",
+    "time": "08:30 PM",
+    "event": "8-Week Bill Auction",
+    "actual": "3.880%",
+    "previous": "3.820%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Non Farm Payrolls OCT",
+    "actual": "261K",
+    "previous": "315K\n\n                        \u00ae",
+    "consensus": "200K",
+    "forecast": "240K"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Average Hourly Earnings MoM OCT",
+    "actual": "0.4%",
+    "previous": "0.3%",
+    "consensus": "0.3%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Average Hourly Earnings YoY OCT",
+    "actual": "4.7%",
+    "previous": "5%",
+    "consensus": "4.7%",
+    "forecast": "5%"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Participation Rate OCT",
+    "actual": "62.2%",
+    "previous": "62.3%",
+    "consensus": "",
+    "forecast": "62.3%"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Unemployment Rate OCT",
+    "actual": "3.7%",
+    "previous": "3.5%",
+    "consensus": "3.6%",
+    "forecast": "3.5%"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Average Weekly Hours OCT",
+    "actual": "34.5",
+    "previous": "34.5",
+    "consensus": "34.5",
+    "forecast": "34.5"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Government Payrolls OCT",
+    "actual": "28K",
+    "previous": "-4K\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "5K"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Manufacturing Payrolls OCT",
+    "actual": "32K",
+    "previous": "23K\n\n                        \u00ae",
+    "consensus": "15K",
+    "forecast": "18K"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "05:30 PM",
+    "event": "Nonfarm Payrolls Private OCT",
+    "actual": "233K",
+    "previous": "319K\n\n                        \u00ae",
+    "consensus": "200K",
+    "forecast": "235K"
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Oil Rig Count NOV/04",
+    "actual": "613",
+    "previous": "610",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday November 04 2022",
+    "time": "10:00 PM",
+    "event": "Baker Hughes Total Rig Count NOV/04",
+    "actual": "770",
+    "previous": "768",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 07 2022",
+    "time": "09:30 PM",
+    "event": "3-Month Bill Auction",
+    "actual": "4.12%",
+    "previous": "4.07%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 07 2022",
+    "time": "09:30 PM",
+    "event": "6-Month Bill Auction",
+    "actual": "4.49%",
+    "previous": "4.44%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "01:00 AM",
+    "event": "Consumer Credit Change SEP",
+    "actual": "$24.98B",
+    "previous": "$32.24B",
+    "consensus": "$30B",
+    "forecast": "$ 24B"
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "01:40 AM",
+    "event": "Fed Collins Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "01:40 AM",
+    "event": "Fed Mester Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "04:00 AM",
+    "event": "Fed Barkin Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "04:00 PM",
+    "event": "NFIB Business Optimism Index OCT",
+    "actual": "91.3",
+    "previous": "92.1",
+    "consensus": "",
+    "forecast": "92"
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "06:55 PM",
+    "event": "Redbook YoY NOV/05",
+    "actual": "7.6%",
+    "previous": "9.7%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "08:00 PM",
+    "event": "IBD/TIPP Economic Optimism NOV",
+    "actual": "40.4",
+    "previous": "41.6",
+    "consensus": "41.5",
+    "forecast": "42"
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "08:30 PM",
+    "event": "NY Fed Treasury Purchases TIPS 7.5 to 30 yrs",
+    "actual": "",
+    "previous": "",
+    "consensus": "$30M",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "11:00 PM",
+    "event": "3-Year Note Auction",
+    "actual": "4.605%",
+    "previous": "4.318%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 08 2022",
+    "time": "",
+    "event": "2022 Midterm Elections",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "02:30 AM",
+    "event": "API Crude Oil Stock Change NOV/04",
+    "actual": "5.618M",
+    "previous": "-6.53M",
+    "consensus": "1.100M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "01:00 PM",
+    "event": "Fed Williams Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "05:00 PM",
+    "event": "MBA 30-Year Mortgage Rate NOV/04",
+    "actual": "7.14%",
+    "previous": "7.06%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Applications NOV/04",
+    "actual": "-0.1%",
+    "previous": "-0.5%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Market Index NOV/04",
+    "actual": "199.9",
+    "previous": "200.1",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Refinance Index NOV/04",
+    "actual": "373.1",
+    "previous": "386.7",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "05:00 PM",
+    "event": "MBA Purchase Index NOV/04",
+    "actual": "162.6",
+    "previous": "160.5",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:00 PM",
+    "event": "Wholesale Inventories MoM SEP",
+    "actual": "0.6%",
+    "previous": "1.4%\n\n                        \u00ae",
+    "consensus": "0.8%",
+    "forecast": "0.8%"
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Crude Oil Stocks Change NOV/04",
+    "actual": "3.925M",
+    "previous": "-3.115M",
+    "consensus": "1.36M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Gasoline Stocks Change NOV/04",
+    "actual": "-0.899M",
+    "previous": "-1.257M",
+    "consensus": "-1.08M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Crude Oil Imports Change NOV/04",
+    "actual": "0.653M",
+    "previous": "1.229M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Cushing Crude Oil Stocks Change NOV/04",
+    "actual": "-0.923M",
+    "previous": "1.267M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Distillate Fuel Production Change NOV/04",
+    "actual": "0.087M",
+    "previous": "0.139M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Distillate Stocks Change NOV/04",
+    "actual": "-0.521M",
+    "previous": "0.427M",
+    "consensus": "-0.8M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Gasoline Production Change NOV/04",
+    "actual": "0.274M",
+    "previous": "0.043M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Heating Oil Stocks Change NOV/04",
+    "actual": "-0.217M",
+    "previous": "-0.383M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "08:30 PM",
+    "event": "EIA Refinery Crude Runs Change NOV/04",
+    "actual": "0.247M",
+    "previous": "0.406M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "09:00 PM",
+    "event": "Fed Barkin Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "10:00 PM",
+    "event": "WASDE Report",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 09 2022",
+    "time": "11:00 PM",
+    "event": "10-Year Note Auction",
+    "actual": "4.14%",
+    "previous": "3.93%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "12:00 PM",
+    "event": "Fed Waller Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Core Inflation Rate YoY OCT",
+    "actual": "6.3%",
+    "previous": "6.6%",
+    "consensus": "6.5%",
+    "forecast": "6.7%"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Inflation Rate YoY OCT",
+    "actual": "7.7%",
+    "previous": "8.2%",
+    "consensus": "8%",
+    "forecast": "8.1%"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Core Inflation Rate MoM OCT",
+    "actual": "0.3%",
+    "previous": "0.6%",
+    "consensus": "0.5%",
+    "forecast": "0.7%"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "CPI OCT",
+    "actual": "298.012",
+    "previous": "296.808",
+    "consensus": "298.583",
+    "forecast": "299"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Inflation Rate MoM OCT",
+    "actual": "0.4%",
+    "previous": "0.4%",
+    "consensus": "0.6%",
+    "forecast": "0.5%"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Initial Jobless Claims NOV/05",
+    "actual": "225K",
+    "previous": "218K\n\n                        \u00ae",
+    "consensus": "220K",
+    "forecast": "231K"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Continuing Jobless Claims OCT/29",
+    "actual": "1493K",
+    "previous": "1487K\n\n                        \u00ae",
+    "consensus": "1475K",
+    "forecast": "1490K"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "06:30 PM",
+    "event": "Jobless Claims 4-week Average NOV/05",
+    "actual": "218.75K",
+    "previous": "219K\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "221K"
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "07:00 PM",
+    "event": "Fed Harker Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "07:35 PM",
+    "event": "Fed Logan Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "08:30 PM",
+    "event": "EIA Natural Gas Stocks Change NOV/04",
+    "actual": "79Bcf",
+    "previous": "107Bcf",
+    "consensus": "84Bcf",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "09:30 PM",
+    "event": "4-Week Bill Auction",
+    "actual": "3.580%",
+    "previous": "3.620%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "09:30 PM",
+    "event": "8-Week Bill Auction",
+    "actual": "3.850%",
+    "previous": "3.880%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "10:30 PM",
+    "event": "Fed Mester Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "11:00 PM",
+    "event": "30-Year Bond Auction",
+    "actual": "4.08%",
+    "previous": "3.93%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Thursday November 10 2022",
+    "time": "11:30 PM",
+    "event": "Fed George Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "12:00 AM",
+    "event": "Monthly Budget Statement OCT",
+    "actual": "$-88B",
+    "previous": "$-430B",
+    "consensus": "$-90B",
+    "forecast": "$-110B"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "04:35 AM",
+    "event": "Fed Williams Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "08:00 PM",
+    "event": "Michigan Consumer Sentiment Prel NOV",
+    "actual": "54.7",
+    "previous": "59.9",
+    "consensus": "59.5",
+    "forecast": "59.3"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "08:00 PM",
+    "event": "Michigan 5 Year Inflation Expectations Prel NOV",
+    "actual": "3%",
+    "previous": "2.9%",
+    "consensus": "",
+    "forecast": "2.9%"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "08:00 PM",
+    "event": "Michigan Consumer Expectations Prel NOV",
+    "actual": "52.7",
+    "previous": "56.2",
+    "consensus": "56",
+    "forecast": "55.6"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "08:00 PM",
+    "event": "Michigan Current Conditions Prel NOV",
+    "actual": "57.8",
+    "previous": "65.6",
+    "consensus": "64",
+    "forecast": "65"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "08:00 PM",
+    "event": "Michigan Inflation Expectations Prel NOV",
+    "actual": "5.1%",
+    "previous": "5%",
+    "consensus": "",
+    "forecast": "5.1%"
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "11:00 PM",
+    "event": "Baker Hughes Oil Rig Count NOV/11",
+    "actual": "622",
+    "previous": "613",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Friday November 11 2022",
+    "time": "11:00 PM",
+    "event": "Baker Hughes Total Rig Count NOV/11",
+    "actual": "779",
+    "previous": "770",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 14 2022",
+    "time": "02:30 AM",
+    "event": "Fed Waller Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 14 2022",
+    "time": "09:00 PM",
+    "event": "Consumer Inflation Expectations OCT",
+    "actual": "5.9%",
+    "previous": "5.4%",
+    "consensus": "",
+    "forecast": "5.3%"
+  },
+  {
+    "date": "Monday November 14 2022",
+    "time": "09:30 PM",
+    "event": "Fed Brainard Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 14 2022",
+    "time": "09:30 PM",
+    "event": "3-Month Bill Auction",
+    "actual": "4.155%",
+    "previous": "4.12%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Monday November 14 2022",
+    "time": "09:30 PM",
+    "event": "6-Month Bill Auction",
+    "actual": "4.44%",
+    "previous": "4.49%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:30 PM",
+    "event": "PPI MoM OCT",
+    "actual": "0.2%",
+    "previous": "0.2%\n\n                        \u00ae",
+    "consensus": "0.4%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:30 PM",
+    "event": "Core PPI MoM OCT",
+    "actual": "0%",
+    "previous": "0.2%\n\n                        \u00ae",
+    "consensus": "0.3%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:30 PM",
+    "event": "NY Empire State Manufacturing Index NOV",
+    "actual": "4.5",
+    "previous": "-9.1",
+    "consensus": "-5",
+    "forecast": "-7"
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:30 PM",
+    "event": "Core PPI YoY OCT",
+    "actual": "6.7%",
+    "previous": "7.1%\n\n                        \u00ae",
+    "consensus": "7.2%",
+    "forecast": "7.1%"
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:30 PM",
+    "event": "PPI YoY OCT",
+    "actual": "8%",
+    "previous": "8.4%\n\n                        \u00ae",
+    "consensus": "8.3%",
+    "forecast": "8.2%"
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "06:55 PM",
+    "event": "Redbook YoY NOV/12",
+    "actual": "6.8%",
+    "previous": "7.6%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "07:00 PM",
+    "event": "Fed Cook Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Tuesday November 15 2022",
+    "time": "08:00 PM",
+    "event": "Fed S. Barr Testimony",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "02:30 AM",
+    "event": "API Crude Oil Stock Change NOV/11",
+    "actual": "-5.835M",
+    "previous": "5.618M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "05:00 PM",
+    "event": "MBA 30-Year Mortgage Rate NOV/11",
+    "actual": "6.9%",
+    "previous": "7.14%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Applications NOV/11",
+    "actual": "2.7%",
+    "previous": "-0.1%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Market Index NOV/11",
+    "actual": "205.2",
+    "previous": "199.9",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "05:00 PM",
+    "event": "MBA Mortgage Refinance Index NOV/11",
+    "actual": "367.1",
+    "previous": "373.1",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "05:00 PM",
+    "event": "MBA Purchase Index NOV/11",
+    "actual": "169.7",
+    "previous": "162.6",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Retail Sales MoM OCT",
+    "actual": "1.3%",
+    "previous": "0%",
+    "consensus": "1%",
+    "forecast": "0.9%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Export Prices MoM OCT",
+    "actual": "-0.3%",
+    "previous": "-1.5%\n\n                        \u00ae",
+    "consensus": "-0.4%",
+    "forecast": "-0.2%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Import Prices MoM OCT",
+    "actual": "-0.2%",
+    "previous": "-1.1%\n\n                        \u00ae",
+    "consensus": "-0.4%",
+    "forecast": "-0.4%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Retail Sales Ex Autos MoM OCT",
+    "actual": "1.3%",
+    "previous": "0.1%",
+    "consensus": "0.4%",
+    "forecast": "0.5%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Export Prices YoY OCT",
+    "actual": "6.9%",
+    "previous": "9.2%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "7.3%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Import Prices YoY OCT",
+    "actual": "4.2%",
+    "previous": "6%",
+    "consensus": "",
+    "forecast": "4%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Retail Sales Ex Gas/Autos MoM OCT",
+    "actual": "0.9%",
+    "previous": "0.6%\n\n                        \u00ae",
+    "consensus": "0.2%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "06:30 PM",
+    "event": "Retail Sales YoY OCT",
+    "actual": "8.3%",
+    "previous": "8.6%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "6.9%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:15 PM",
+    "event": "Industrial Production MoM OCT",
+    "actual": "-0.1%",
+    "previous": "0.1%\n\n                        \u00ae",
+    "consensus": "0.2%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:15 PM",
+    "event": "Industrial Production YoY OCT",
+    "actual": "3.3%",
+    "previous": "5%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "5.1%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:15 PM",
+    "event": "Capacity Utilization OCT",
+    "actual": "79.9%",
+    "previous": "80.1%\n\n                        \u00ae",
+    "consensus": "80.4%",
+    "forecast": "80.4%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:15 PM",
+    "event": "Manufacturing Production MoM OCT",
+    "actual": "0.1%",
+    "previous": "0.2%\n\n                        \u00ae",
+    "consensus": "0.2%",
+    "forecast": "0.3%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:15 PM",
+    "event": "Manufacturing Production YoY OCT",
+    "actual": "2.4%",
+    "previous": "4%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "4.5%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "07:50 PM",
+    "event": "Fed Williams Speech",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:00 PM",
+    "event": "Business Inventories MoM SEP",
+    "actual": "0.4%",
+    "previous": "0.9%\n\n                        \u00ae",
+    "consensus": "0.5%",
+    "forecast": "0.6%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:00 PM",
+    "event": "Fed S. Barr Testimony",
+    "actual": "",
+    "previous": "",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:00 PM",
+    "event": "NAHB Housing Market Index NOV",
+    "actual": "33",
+    "previous": "38",
+    "consensus": "36",
+    "forecast": "37"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:00 PM",
+    "event": "Retail Inventories Ex Autos MoM SEP",
+    "actual": "-0.1%",
+    "previous": "0.7%\n\n                        \u00ae",
+    "consensus": "",
+    "forecast": "-0.1%"
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Crude Oil Stocks Change NOV/11",
+    "actual": "-5.4M",
+    "previous": "3.925M",
+    "consensus": "-0.44M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Gasoline Stocks Change NOV/11",
+    "actual": "2.207M",
+    "previous": "-0.899M",
+    "consensus": "0.31M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Crude Oil Imports Change NOV/11",
+    "actual": "-1.236M",
+    "previous": "0.653M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Cushing Crude Oil Stocks Change NOV/11",
+    "actual": "-1.624M",
+    "previous": "-0.923M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Distillate Fuel Production Change NOV/11",
+    "actual": "-0.107M",
+    "previous": "0.087M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Distillate Stocks Change NOV/11",
+    "actual": "1.12M",
+    "previous": "-0.521M",
+    "consensus": "-0.513M",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Gasoline Production Change NOV/11",
+    "actual": "0.035M",
+    "previous": "0.274M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Heating Oil Stocks Change NOV/11",
+    "actual": "0.598M",
+    "previous": "-0.217M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "08:30 PM",
+    "event": "EIA Refinery Crude Runs Change NOV/11",
+    "actual": "0.063M",
+    "previous": "0.247M",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "09:30 PM",
+    "event": "17-Week Bill Auction",
+    "actual": "4.320%",
+    "previous": "4.3%",
+    "consensus": "",
+    "forecast": ""
+  },
+  {
+    "date": "Wednesday November 16 2022",
+    "time": "11:00 PM",
+    "event": "20-Year Bond Auction",
+    "actual": "4.072%",
+    "previous": "4.395%",
+    "consensus": "",
+    "forecast": ""
+  }
+]
