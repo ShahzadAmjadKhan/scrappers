@@ -1,0 +1,3 @@
+playwright==1.41.2
+asyncio==3.4.3
+logging==0.5.1.2 

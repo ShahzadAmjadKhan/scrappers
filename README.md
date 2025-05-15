@@ -11,5 +11,8 @@ This repository contain scrappers developed to extract required data from differ
 8. hochschuljobboerse [details](hochschuljobboerse/README.md)
 9. Landmodo [details](landmodo/README.md)
 10. Trust Pilot Australia [details](trustpilot/README.md)
+11. Arc [details](arc/README.md)
+12. Got to be NC [details](gottobenc/README.md)
+13. Propublica [details](propublica-nonprofits/README.md)
 
 
