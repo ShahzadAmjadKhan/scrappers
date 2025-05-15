@@ -14,5 +14,6 @@ This repository contain scrappers developed to extract required data from differ
 11. Arc [details](arc/README.md)
 12. Got to be NC [details](gottobenc/README.md)
 13. Propublica [details](propublica-nonprofits/README.md)
+14. Ofcom [details] (ofcom/README.md)
 
 
