@@ -1,0 +1,161 @@
+openapi: 3.0.1
+info:
+  title: Ofcom Connected Nations Broadband API
+  description: An API based on Connected Nations broadband data.
+  version: '1.0'
+servers:
+  - url: https://api-proxy.ofcom.org.uk/broadband
+paths:
+  '/coverage/{PostCode}':
+    get:
+      summary: Get broadband provision by postcode
+      description: This endpoint will return predicted broadband speeds broken down by up/down and by Basic/Superfast/Ultrafast alongside percentage availability of the broadband speed categories.
+      operationId: CoverageByPostCodeGet
+      parameters:
+        - name: PostCode
+          in: path
+          description: The postcode of interest
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Successful operation - broadband provision is returned
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/FixedAvailability'
+              example:
+                PostCode: string
+                Availability:
+                  - UPRN: 0
+                    AddressShortDescription: string
+                    PostCode: string
+                    MaxBbPredictedDown: 0
+                    MaxBbPredictedUp: 0
+                    MaxSfbbPredictedDown: 0
+                    MaxSfbbPredictedUp: 0
+                    MaxUfbbPredictedDown: 0
+                    MaxUfbbPredictedUp: 0
+                    MaxPredictedDown: 0
+                    MaxPredictedUp: 0
+        '404':
+          description: Post Code not found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/FixedAvailabilityNotFound'
+              example:
+                PostCode: string
+                ErrorMessage: string
+        '500':
+          description: General error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GeneralError'
+              example:
+                ErrorMessage: string
+components:
+  schemas:
+    FixedAvailabilityNotFound:
+      title: FixedAvailabilityNotFound
+      required:
+        - PostCode
+        - ErrorMessage
+      type: object
+      properties:
+        PostCode:
+          maxLength: 7
+          type: string
+          description: 'Postcode of address, spaces removed'
+        ErrorMessage:
+          type: string
+          description: A human readable error message
+    FixedAvailability:
+      title: FixedAvailability
+      required:
+        - PostCode
+        - Availability
+      type: object
+      properties:
+        PostCode:
+          maxLength: 7
+          type: string
+          description: 'Postcode of address, spaces removed'
+        Availability:
+          type: array
+          items:
+            $ref: '#/components/schemas/BroadbandProvision'
+    BroadbandProvision:
+      title: BroadbandProvision
+      required:
+        - UPRN
+        - AddressShortDescription
+        - PostCode
+      type: object
+      properties:
+        UPRN:
+          type: integer
+          description: Unique Property Reference Number
+          format: int32
+        AddressShortDescription:
+          type: string
+          description: 'A compiled address description based on use of the Ordnance Survey AddressBase fields of the form - Building Name, Building Number, Dependent_ThoroughFare'
+        PostCode:
+          maxLength: 7
+          type: string
+          description: 'Postcode of address, spaces removed'
+        MaxBbPredictedDown:
+          minimum: -1
+          type: number
+          format: double
+        MaxBbPredictedUp:
+          minimum: -1
+          type: number
+          format: double
+        MaxSfbbPredictedDown:
+          minimum: -1
+          type: number
+          format: double
+        MaxSfbbPredictedUp:
+          minimum: -1
+          type: number
+          format: double
+        MaxUfbbPredictedDown:
+          minimum: -1
+          type: number
+          format: double
+        MaxUfbbPredictedUp:
+          minimum: -1
+          type: number
+          format: double
+        MaxPredictedDown:
+          minimum: -1
+          type: number
+          format: double
+        MaxPredictedUp:
+          minimum: -1
+          type: number
+          format: double
+    GeneralError:
+      title: GeneralError
+      required:
+        - ErrorMessage
+      type: object
+      properties:
+        ErrorMessage:
+          type: string
+          description: A human readable error message
+  securitySchemes:
+    apiKeyHeader:
+      type: apiKey
+      name: Ocp-Apim-Subscription-Key
+      in: header
+    apiKeyQuery:
+      type: apiKey
+      name: subscription-key
+      in: query
+security:
+  - apiKeyHeader: [ ]
+  - apiKeyQuery: [ ]
