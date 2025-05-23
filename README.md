@@ -24,12 +24,14 @@ This repository contains a collection of web scrapers developed to extract data 
 1. [Google Map](google-map/README.md) - Google Maps data extraction tool
 2. [Landmodo](landmodo/README.md) - Real estate data scraper
 3. [RealEstate AU](realestate-au/README.md) - Australian real estate data scraper
+4. [Zillow](./zillow/README.md) - Zillow Scarper
 
 ### Reviews and Business Listings
 1. [TrustPilot](trustpilot/README.md) - Review data scraper for TrustPilot
 2. [Arc](arc/README.md) - Business listing scraper
 3. [Got to be NC](gottobenc/README.md) - North Carolina business data
 4. [Ontario Dental](ontario-dental/README.md) - Dental practices data scraper
+5. [Tobroco-giant](./tobroco-giant/README.md) - Tobroco Giant Dealers
 
 ### Product and Image Data
 1. [Fleetguard](fleetguard/README.md) - Product data scraper
