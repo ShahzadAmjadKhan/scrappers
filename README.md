@@ -8,6 +8,8 @@ This repository contains a collection of web scrapers developed to extract data 
 2. [ProPublica Nonprofits](propublica-nonprofits/README.md) - Extract nonprofit organization data from ProPublica
 3. [Wales Ofcom](wales-ofcom/README.md) - Scraper for Ofcom data
 4. [PACER Data Extractor](pacer-data-extractor/README.md) - Tool for extracting data from PACER system
+5. [Solar Answered](./solar-qld/README.md) - Tool fo extracting data from Solar Answered
+6. [Capitol Trades](./capitol-trades/README.md) - Extract trades information of US politicians
 
 ### Business and Company Data
 1. [Endole and CompaniesHouse](endole-companies-house/README.md) - UK company information scraper
