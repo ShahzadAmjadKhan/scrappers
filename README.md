@@ -26,7 +26,8 @@ This repository contains a collection of web scrapers developed to extract data 
 1. [Google Map](google-map/README.md) - Google Maps data extraction tool
 2. [Landmodo](landmodo/README.md) - Real estate data scraper
 3. [RealEstate AU](realestate-au/README.md) - Australian real estate data scraper
-4. [Zillow](./zillow/README.md) - Zillow Scarper
+4. [RealEstate NZ](realestate-nz/README.md) - New Zealand real estate data scraper
+5. [Zillow](./zillow/README.md) - Zillow Scarper
 
 ### Reviews and Business Listings
 1. [TrustPilot](trustpilot/README.md) - Review data scraper for TrustPilot
