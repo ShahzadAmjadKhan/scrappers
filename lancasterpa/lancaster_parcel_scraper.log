@@ -1,0 +1,36 @@
+2025-06-05 10:57:55,004 [INFO] Loaded 16 parcel numbers from file.
+2025-06-05 10:57:55,959 [INFO] Processing batch 1 of 1 (parcels 1 to 16)
+2025-06-05 10:57:56,212 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/5408465600000/2025
+2025-06-05 10:57:56,221 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1200794700000/2025
+2025-06-05 10:57:56,246 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1202218200000/2025
+2025-06-05 10:57:56,290 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1206192400000/2025
+2025-06-05 10:57:56,312 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1205832000000/2025
+2025-06-05 10:58:02,394 [INFO] Scraping completed for parcel 120-61924-0-0000
+2025-06-05 10:58:03,072 [INFO] Scraping completed for parcel 120-22182-0-0000
+2025-06-05 10:58:03,889 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1204298900000/2025
+2025-06-05 10:58:05,074 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1208955200000/2025
+2025-06-05 10:58:06,055 [INFO] Scraping completed for parcel 120-58320-0-0000
+2025-06-05 10:58:08,664 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/1208577100000/2025
+2025-06-05 10:58:09,698 [INFO] Scraping completed for parcel 120-42989-0-0000
+2025-06-05 10:58:11,124 [INFO] Scraping completed for parcel 540-84656-0-0000
+2025-06-05 10:58:11,822 [INFO] Scraping completed for parcel 120-07947-0-0000
+2025-06-05 10:58:11,847 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2902484800000/2025
+2025-06-05 10:58:12,566 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900134600000/2025
+2025-06-05 10:58:12,959 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900187300000/2025
+2025-06-05 10:58:14,681 [INFO] Scraping completed for parcel 120-85771-0-0000
+2025-06-05 10:58:15,938 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900168200000/2025
+2025-06-05 10:58:18,323 [INFO] Scraping completed for parcel 290-01346-0-0000
+2025-06-05 10:58:19,711 [INFO] Scraping completed for parcel 120-89552-0-0000
+2025-06-05 10:58:20,574 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900141600000/2025
+2025-06-05 10:58:22,397 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900089600000/2025
+2025-06-05 10:58:24,351 [INFO] Scraping completed for parcel 290-01873-0-0000
+2025-06-05 10:58:26,627 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900070100000/2025
+2025-06-05 10:58:27,614 [INFO] Scraping completed for parcel 290-24848-0-0000
+2025-06-05 10:58:29,436 [INFO] Scraping completed for parcel 290-00896-0-0000
+2025-06-05 10:58:29,480 [INFO] Scraping: https://lancasterpa.devnetwedge.com/parcel/view/2900029000000/2025
+2025-06-05 10:58:31,427 [INFO] Scraping completed for parcel 290-01416-0-0000
+2025-06-05 10:58:37,373 [INFO] Scraping completed for parcel 290-00701-0-0000
+2025-06-05 10:58:37,948 [INFO] Scraping completed for parcel 290-01682-0-0000
+2025-06-05 10:58:41,414 [INFO] Scraping completed for parcel 290-00290-0-0000
+2025-06-05 10:58:44,342 [INFO] Batch 1 saved with 18 rows.
+2025-06-05 10:59:00,787 [INFO] All batches processed and saved.

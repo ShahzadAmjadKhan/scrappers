@@ -8,14 +8,17 @@ This repository contains a collection of web scrapers developed to extract data 
 2. [ProPublica Nonprofits](propublica-nonprofits/README.md) - Extract nonprofit organization data from ProPublica
 3. [Wales Ofcom](wales-ofcom/README.md) - Scraper for Ofcom data
 4. [PACER Data Extractor](pacer-data-extractor/README.md) - Tool for extracting data from PACER system
-5. [Solar Answered](./solar-qld/README.md) - Tool fo extracting data from Solar Answered
-6. [Capitol Trades](./capitol-trades/README.md) - Extract trades information of US politicians
+5. [Capitol Trades](./capitol-trades/README.md) - Extract trades information of US politicians
+7. [Lancaster County](./lancasterpa/README.md) - Extract property tax and other details for defined set of parcel numbers
+8. [Floria Department of State - Division of Corporations](./sunbiz/README.md) - Extract corporation details against defined set of numbers
+9. [Victorian Building Authority - Building Practitioner](./vba-practitioner/README.md) - Extract details about practitioner based on pre-defined filter
 
 ### Business and Company Data
 1. [Endole and CompaniesHouse](endole-companies-house/README.md) - UK company information scraper
 2. [Failory](failory/README.md) - Business data scraper
 3. [DNB](dnb/README.md) - Business information scraper
 4. [Trading Economics](trading-economics/README.md) - Economic data scraper
+5. [Solar Answered](./solar-qld/README.md) - Tool fo extracting data from Solar Answered
 
 ### Job and Education
 1. [Google Jobs](google-jobs/README.md) - Job listings scraper from Google Jobs
