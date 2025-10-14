@@ -1,0 +1,243 @@
+2025-10-14 12:21:42,062 [INFO] 📄 Scraping directory page 1 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=1&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:21:46,973 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:21:46,981 [INFO] 🔍 Scraping member 999865216 (Attempt 1/3)
+2025-10-14 12:21:46,983 [INFO] 🔍 Scraping member 999918438 (Attempt 1/3)
+2025-10-14 12:21:46,985 [INFO] 🔍 Scraping member 999860897 (Attempt 1/3)
+2025-10-14 12:21:46,987 [INFO] 🔍 Scraping member 999880084 (Attempt 1/3)
+2025-10-14 12:21:46,988 [INFO] 🔍 Scraping member 999908504 (Attempt 1/3)
+2025-10-14 12:21:51,682 [INFO] ✅ Finished scraping member 999865216
+2025-10-14 12:21:51,682 [INFO] 🔍 Scraping member 999904750 (Attempt 1/3)
+2025-10-14 12:21:52,259 [INFO] ✅ Finished scraping member 999918438
+2025-10-14 12:21:52,718 [INFO] ✅ Finished scraping member 999860897
+2025-10-14 12:21:52,835 [INFO] ✅ Finished scraping member 999880084
+2025-10-14 12:21:53,745 [INFO] ✅ Finished scraping member 999908504
+2025-10-14 12:21:56,854 [INFO] ✅ Finished scraping member 999904750
+2025-10-14 12:21:56,855 [INFO] 📄 Scraping directory page 2 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=2&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:22:00,226 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:22:00,232 [INFO] 🔍 Scraping member 999773784 (Attempt 1/3)
+2025-10-14 12:22:00,235 [INFO] 🔍 Scraping member 999770452 (Attempt 1/3)
+2025-10-14 12:22:00,237 [INFO] 🔍 Scraping member 999798862 (Attempt 1/3)
+2025-10-14 12:22:00,239 [INFO] 🔍 Scraping member 999781850 (Attempt 1/3)
+2025-10-14 12:22:00,240 [INFO] 🔍 Scraping member 999822443 (Attempt 1/3)
+2025-10-14 12:22:05,162 [INFO] ✅ Finished scraping member 999798862
+2025-10-14 12:22:05,163 [INFO] 🔍 Scraping member 999809787 (Attempt 1/3)
+2025-10-14 12:22:05,693 [INFO] ✅ Finished scraping member 999770452
+2025-10-14 12:22:05,697 [INFO] ✅ Finished scraping member 999773784
+2025-10-14 12:22:06,052 [INFO] ✅ Finished scraping member 999822443
+2025-10-14 12:22:06,598 [INFO] ✅ Finished scraping member 999781850
+2025-10-14 12:22:10,043 [INFO] ✅ Finished scraping member 999809787
+2025-10-14 12:22:10,043 [INFO] 💾 Data saved to member_data.csv (12 records)
+2025-10-14 12:22:10,087 [INFO] 🏁 Scraping complete!
+2025-10-14 12:23:00,072 [INFO] 📄 Scraping directory page 1 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=1&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:23:05,058 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:23:05,066 [INFO] 🔍 Scraping member 999918438 (Attempt 1/3)
+2025-10-14 12:23:05,068 [INFO] 🔍 Scraping member 999908504 (Attempt 1/3)
+2025-10-14 12:23:05,070 [INFO] 🔍 Scraping member 999865216 (Attempt 1/3)
+2025-10-14 12:23:05,072 [INFO] 🔍 Scraping member 999880084 (Attempt 1/3)
+2025-10-14 12:23:05,074 [INFO] 🔍 Scraping member 999860897 (Attempt 1/3)
+2025-10-14 12:23:10,449 [INFO] ✅ Finished scraping member 999880084
+2025-10-14 12:23:10,449 [INFO] 🔍 Scraping member 999904750 (Attempt 1/3)
+2025-10-14 12:23:10,635 [INFO] ✅ Finished scraping member 999865216
+2025-10-14 12:23:10,759 [INFO] ✅ Finished scraping member 999918438
+2025-10-14 12:23:10,916 [INFO] ✅ Finished scraping member 999908504
+2025-10-14 12:23:11,116 [INFO] ✅ Finished scraping member 999860897
+2025-10-14 12:23:15,133 [INFO] ✅ Finished scraping member 999904750
+2025-10-14 12:23:15,133 [INFO] 📄 Scraping directory page 2 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=2&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:23:18,562 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:23:18,568 [INFO] 🔍 Scraping member 999781850 (Attempt 1/3)
+2025-10-14 12:23:18,569 [INFO] 🔍 Scraping member 999822443 (Attempt 1/3)
+2025-10-14 12:23:18,571 [INFO] 🔍 Scraping member 999770452 (Attempt 1/3)
+2025-10-14 12:23:18,573 [INFO] 🔍 Scraping member 999798862 (Attempt 1/3)
+2025-10-14 12:23:18,574 [INFO] 🔍 Scraping member 999773784 (Attempt 1/3)
+2025-10-14 12:23:23,126 [INFO] ✅ Finished scraping member 999798862
+2025-10-14 12:23:23,126 [INFO] 🔍 Scraping member 999809787 (Attempt 1/3)
+2025-10-14 12:23:23,519 [INFO] ✅ Finished scraping member 999770452
+2025-10-14 12:23:24,229 [INFO] ✅ Finished scraping member 999822443
+2025-10-14 12:23:24,604 [INFO] ✅ Finished scraping member 999781850
+2025-10-14 12:23:26,200 [INFO] ✅ Finished scraping member 999773784
+2025-10-14 12:23:28,136 [INFO] ✅ Finished scraping member 999809787
+2025-10-14 12:23:28,137 [INFO] 📄 Scraping directory page 3 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=3&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:23:31,225 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:23:31,229 [INFO] 🔍 Scraping member 999683895 (Attempt 1/3)
+2025-10-14 12:23:31,231 [INFO] 🔍 Scraping member 999752840 (Attempt 1/3)
+2025-10-14 12:23:31,232 [INFO] 🔍 Scraping member 999721187 (Attempt 1/3)
+2025-10-14 12:23:31,234 [INFO] 🔍 Scraping member 999626232 (Attempt 1/3)
+2025-10-14 12:23:31,236 [INFO] 🔍 Scraping member 999710985 (Attempt 1/3)
+2025-10-14 12:23:35,954 [INFO] ✅ Finished scraping member 999626232
+2025-10-14 12:23:35,954 [INFO] 🔍 Scraping member 999741445 (Attempt 1/3)
+2025-10-14 12:23:36,466 [INFO] ✅ Finished scraping member 999710985
+2025-10-14 12:23:37,139 [INFO] ✅ Finished scraping member 999683895
+2025-10-14 12:23:37,185 [INFO] ✅ Finished scraping member 999752840
+2025-10-14 12:23:37,588 [INFO] ✅ Finished scraping member 999721187
+2025-10-14 12:23:39,882 [INFO] ✅ Finished scraping member 999741445
+2025-10-14 12:23:39,882 [INFO] 📄 Scraping directory page 4 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=4&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:23:43,380 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:23:43,385 [INFO] 🔍 Scraping member 999410329 (Attempt 1/3)
+2025-10-14 12:23:43,387 [INFO] 🔍 Scraping member 999442600 (Attempt 1/3)
+2025-10-14 12:23:43,389 [INFO] 🔍 Scraping member 999349678 (Attempt 1/3)
+2025-10-14 12:23:43,390 [INFO] 🔍 Scraping member 999430212 (Attempt 1/3)
+2025-10-14 12:23:43,392 [INFO] 🔍 Scraping member 999335187 (Attempt 1/3)
+2025-10-14 12:23:47,889 [INFO] ✅ Finished scraping member 999430212
+2025-10-14 12:23:47,889 [INFO] 🔍 Scraping member 999361584 (Attempt 1/3)
+2025-10-14 12:23:48,153 [INFO] ✅ Finished scraping member 999349678
+2025-10-14 12:23:49,149 [INFO] ✅ Finished scraping member 999335187
+2025-10-14 12:23:49,262 [INFO] ✅ Finished scraping member 999410329
+2025-10-14 12:23:49,703 [INFO] ✅ Finished scraping member 999442600
+2025-10-14 12:23:52,409 [INFO] ✅ Finished scraping member 999361584
+2025-10-14 12:23:52,410 [INFO] 📄 Scraping directory page 5 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=5&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:23:56,436 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:23:56,442 [INFO] 🔍 Scraping member 999262138 (Attempt 1/3)
+2025-10-14 12:23:56,443 [INFO] 🔍 Scraping member 999209035 (Attempt 1/3)
+2025-10-14 12:23:56,446 [INFO] 🔍 Scraping member 999203248 (Attempt 1/3)
+2025-10-14 12:23:56,449 [INFO] 🔍 Scraping member 999289170 (Attempt 1/3)
+2025-10-14 12:23:56,451 [INFO] 🔍 Scraping member 999323483 (Attempt 1/3)
+2025-10-14 12:24:01,725 [INFO] ✅ Finished scraping member 999262138
+2025-10-14 12:24:01,725 [INFO] 🔍 Scraping member 999205205 (Attempt 1/3)
+2025-10-14 12:24:02,454 [INFO] ✅ Finished scraping member 999323483
+2025-10-14 12:24:02,754 [INFO] ✅ Finished scraping member 999209035
+2025-10-14 12:24:02,904 [INFO] ✅ Finished scraping member 999203248
+2025-10-14 12:24:03,629 [INFO] ✅ Finished scraping member 999289170
+2025-10-14 12:24:06,355 [INFO] ✅ Finished scraping member 999205205
+2025-10-14 12:24:06,356 [INFO] 📄 Scraping directory page 6 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=6&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:24:09,727 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:24:09,732 [INFO] 🔍 Scraping member 999023907 (Attempt 1/3)
+2025-10-14 12:24:09,734 [INFO] 🔍 Scraping member 999054572 (Attempt 1/3)
+2025-10-14 12:24:09,735 [INFO] 🔍 Scraping member 999101050 (Attempt 1/3)
+2025-10-14 12:24:09,737 [INFO] 🔍 Scraping member 999106536 (Attempt 1/3)
+2025-10-14 12:24:09,738 [INFO] 🔍 Scraping member 999191711 (Attempt 1/3)
+2025-10-14 12:24:13,589 [INFO] ✅ Finished scraping member 999054572
+2025-10-14 12:24:13,589 [INFO] 🔍 Scraping member 999187883 (Attempt 1/3)
+2025-10-14 12:24:14,071 [INFO] ✅ Finished scraping member 999101050
+2025-10-14 12:24:15,167 [INFO] ✅ Finished scraping member 999106536
+2025-10-14 12:24:15,865 [INFO] ✅ Finished scraping member 999191711
+2025-10-14 12:24:15,942 [INFO] ✅ Finished scraping member 999023907
+2025-10-14 12:24:17,964 [INFO] ✅ Finished scraping member 999187883
+2025-10-14 12:24:17,964 [INFO] 📄 Scraping directory page 7 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=7&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:24:20,728 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:24:20,734 [INFO] 🔍 Scraping member 998995475 (Attempt 1/3)
+2025-10-14 12:24:20,736 [INFO] 🔍 Scraping member 998925228 (Attempt 1/3)
+2025-10-14 12:24:20,737 [INFO] 🔍 Scraping member 998945625 (Attempt 1/3)
+2025-10-14 12:24:20,738 [INFO] 🔍 Scraping member 998971658 (Attempt 1/3)
+2025-10-14 12:24:20,740 [INFO] 🔍 Scraping member 998923046 (Attempt 1/3)
+2025-10-14 12:24:25,396 [INFO] ✅ Finished scraping member 998923046
+2025-10-14 12:24:25,396 [INFO] 🔍 Scraping member 998923183 (Attempt 1/3)
+2025-10-14 12:24:25,442 [INFO] ✅ Finished scraping member 998971658
+2025-10-14 12:24:25,510 [INFO] ✅ Finished scraping member 998945625
+2025-10-14 12:24:26,168 [INFO] ✅ Finished scraping member 998995475
+2025-10-14 12:24:26,966 [INFO] ✅ Finished scraping member 998925228
+2025-10-14 12:24:29,746 [INFO] ✅ Finished scraping member 998923183
+2025-10-14 12:24:29,747 [INFO] 📄 Scraping directory page 8 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=8&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:24:33,256 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:24:33,262 [INFO] 🔍 Scraping member 998732537 (Attempt 1/3)
+2025-10-14 12:24:33,264 [INFO] 🔍 Scraping member 998741577 (Attempt 1/3)
+2025-10-14 12:24:33,265 [INFO] 🔍 Scraping member 998628041 (Attempt 1/3)
+2025-10-14 12:24:33,267 [INFO] 🔍 Scraping member 998608735 (Attempt 1/3)
+2025-10-14 12:24:33,268 [INFO] 🔍 Scraping member 998870123 (Attempt 1/3)
+2025-10-14 12:24:37,020 [INFO] ✅ Finished scraping member 998608735
+2025-10-14 12:24:37,020 [INFO] 🔍 Scraping member 998835449 (Attempt 1/3)
+2025-10-14 12:24:37,895 [INFO] ✅ Finished scraping member 998628041
+2025-10-14 12:24:37,931 [INFO] ✅ Finished scraping member 998741577
+2025-10-14 12:24:37,994 [INFO] ✅ Finished scraping member 998870123
+2025-10-14 12:24:38,143 [INFO] ✅ Finished scraping member 998732537
+2025-10-14 12:24:40,228 [INFO] ✅ Finished scraping member 998835449
+2025-10-14 12:24:40,228 [INFO] 📄 Scraping directory page 9 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=9&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:24:43,658 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:24:43,663 [INFO] 🔍 Scraping member 998469109 (Attempt 1/3)
+2025-10-14 12:24:43,665 [INFO] 🔍 Scraping member 998579880 (Attempt 1/3)
+2025-10-14 12:24:43,666 [INFO] 🔍 Scraping member 998504454 (Attempt 1/3)
+2025-10-14 12:24:43,668 [INFO] 🔍 Scraping member 998483574 (Attempt 1/3)
+2025-10-14 12:24:43,669 [INFO] 🔍 Scraping member 998591933 (Attempt 1/3)
+2025-10-14 12:24:47,809 [INFO] ✅ Finished scraping member 998579880
+2025-10-14 12:24:47,810 [INFO] 🔍 Scraping member 998515395 (Attempt 1/3)
+2025-10-14 12:24:48,360 [INFO] ✅ Finished scraping member 998504454
+2025-10-14 12:24:48,859 [INFO] ✅ Finished scraping member 998483574
+2025-10-14 12:24:48,988 [INFO] ✅ Finished scraping member 998591933
+2025-10-14 12:24:50,803 [INFO] ✅ Finished scraping member 998469109
+2025-10-14 12:24:52,720 [INFO] ✅ Finished scraping member 998515395
+2025-10-14 12:24:52,721 [INFO] 📄 Scraping directory page 10 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=10&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:24:56,073 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:24:56,079 [INFO] 🔍 Scraping member 998360927 (Attempt 1/3)
+2025-10-14 12:24:56,080 [INFO] 🔍 Scraping member 998283823 (Attempt 1/3)
+2025-10-14 12:24:56,082 [INFO] 🔍 Scraping member 998462004 (Attempt 1/3)
+2025-10-14 12:24:56,083 [INFO] 🔍 Scraping member 998242500 (Attempt 1/3)
+2025-10-14 12:24:56,084 [INFO] 🔍 Scraping member 998411881 (Attempt 1/3)
+2025-10-14 12:25:00,752 [INFO] ✅ Finished scraping member 998360927
+2025-10-14 12:25:00,752 [INFO] 🔍 Scraping member 998414041 (Attempt 1/3)
+2025-10-14 12:25:00,954 [INFO] ✅ Finished scraping member 998242500
+2025-10-14 12:25:01,071 [INFO] ✅ Finished scraping member 998411881
+2025-10-14 12:25:01,184 [INFO] ✅ Finished scraping member 998462004
+2025-10-14 12:25:01,239 [INFO] ✅ Finished scraping member 998283823
+2025-10-14 12:25:05,572 [INFO] ✅ Finished scraping member 998414041
+2025-10-14 12:25:05,572 [INFO] 📄 Scraping directory page 11 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=11&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:25:09,076 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:25:09,082 [INFO] 🔍 Scraping member 998157712 (Attempt 1/3)
+2025-10-14 12:25:09,084 [INFO] 🔍 Scraping member 998120674 (Attempt 1/3)
+2025-10-14 12:25:09,086 [INFO] 🔍 Scraping member 998079902 (Attempt 1/3)
+2025-10-14 12:25:09,087 [INFO] 🔍 Scraping member 998208033 (Attempt 1/3)
+2025-10-14 12:25:09,089 [INFO] 🔍 Scraping member 998118899 (Attempt 1/3)
+2025-10-14 12:25:13,268 [INFO] ✅ Finished scraping member 998157712
+2025-10-14 12:25:13,268 [INFO] 🔍 Scraping member 998152828 (Attempt 1/3)
+2025-10-14 12:25:13,619 [INFO] ✅ Finished scraping member 998120674
+2025-10-14 12:25:13,896 [INFO] ✅ Finished scraping member 998118899
+2025-10-14 12:25:14,522 [INFO] ✅ Finished scraping member 998079902
+2025-10-14 12:25:14,525 [INFO] ✅ Finished scraping member 998208033
+2025-10-14 12:25:17,323 [INFO] ✅ Finished scraping member 998152828
+2025-10-14 12:25:17,324 [INFO] 📄 Scraping directory page 12 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=12&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:25:21,100 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:25:21,106 [INFO] 🔍 Scraping member 997951701 (Attempt 1/3)
+2025-10-14 12:25:21,108 [INFO] 🔍 Scraping member 997952553 (Attempt 1/3)
+2025-10-14 12:25:21,109 [INFO] 🔍 Scraping member 998067350 (Attempt 1/3)
+2025-10-14 12:25:21,111 [INFO] 🔍 Scraping member 998072473 (Attempt 1/3)
+2025-10-14 12:25:21,113 [INFO] 🔍 Scraping member 997669188 (Attempt 1/3)
+2025-10-14 12:25:26,700 [INFO] ✅ Finished scraping member 997952553
+2025-10-14 12:25:26,700 [INFO] 🔍 Scraping member 997984722 (Attempt 1/3)
+2025-10-14 12:25:26,747 [INFO] ✅ Finished scraping member 997951701
+2025-10-14 12:25:26,814 [INFO] ✅ Finished scraping member 997669188
+2025-10-14 12:25:27,390 [INFO] ✅ Finished scraping member 998067350
+2025-10-14 12:25:27,545 [INFO] ✅ Finished scraping member 998072473
+2025-10-14 12:25:32,622 [INFO] ✅ Finished scraping member 997984722
+2025-10-14 12:25:32,622 [INFO] 📄 Scraping directory page 13 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=13&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:25:35,994 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:25:36,001 [INFO] 🔍 Scraping member 997527123 (Attempt 1/3)
+2025-10-14 12:25:36,002 [INFO] 🔍 Scraping member 997295211 (Attempt 1/3)
+2025-10-14 12:25:36,004 [INFO] 🔍 Scraping member 997490443 (Attempt 1/3)
+2025-10-14 12:25:36,006 [INFO] 🔍 Scraping member 997374029 (Attempt 1/3)
+2025-10-14 12:25:36,008 [INFO] 🔍 Scraping member 997334717 (Attempt 1/3)
+2025-10-14 12:25:41,184 [INFO] ✅ Finished scraping member 997490443
+2025-10-14 12:25:41,185 [INFO] 🔍 Scraping member 997439528 (Attempt 1/3)
+2025-10-14 12:25:42,040 [INFO] ✅ Finished scraping member 997527123
+2025-10-14 12:25:42,407 [INFO] ✅ Finished scraping member 997334717
+2025-10-14 12:25:42,541 [INFO] ✅ Finished scraping member 997295211
+2025-10-14 12:25:42,545 [INFO] ✅ Finished scraping member 997374029
+2025-10-14 12:25:43,866 [ERROR] Error handling response for https://0tsyhlzxnu-dsn.algolia.net/1/indexes/MemberFacilityDirectory/997439528?x-algolia-agent=Algolia%20for%20JavaScript%20(3.35.1)%3B%20Browser&x-algolia-application-id=0TSYHLZXNU&x-algolia-api-key=d8ebb3a3fea12e4a13e011816c2831ad: sequence item 1: expected str instance, NoneType found
+2025-10-14 12:25:46,377 [INFO] ✅ Finished scraping member 997439528
+2025-10-14 12:25:46,378 [INFO] 📄 Scraping directory page 14 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=14&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:25:49,888 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:25:49,893 [INFO] 🔍 Scraping member 997197494 (Attempt 1/3)
+2025-10-14 12:25:49,895 [INFO] 🔍 Scraping member 997065753 (Attempt 1/3)
+2025-10-14 12:25:49,897 [INFO] 🔍 Scraping member 997201410 (Attempt 1/3)
+2025-10-14 12:25:49,898 [INFO] 🔍 Scraping member 997250764 (Attempt 1/3)
+2025-10-14 12:25:49,900 [INFO] 🔍 Scraping member 997227331 (Attempt 1/3)
+2025-10-14 12:25:55,249 [INFO] ✅ Finished scraping member 997201410
+2025-10-14 12:25:55,249 [INFO] 🔍 Scraping member 997264488 (Attempt 1/3)
+2025-10-14 12:25:55,394 [INFO] ✅ Finished scraping member 997065753
+2025-10-14 12:25:55,652 [INFO] ✅ Finished scraping member 997250764
+2025-10-14 12:25:55,657 [INFO] ✅ Finished scraping member 997197494
+2025-10-14 12:25:56,115 [INFO] ✅ Finished scraping member 997227331
+2025-10-14 12:26:00,630 [INFO] ✅ Finished scraping member 997264488
+2025-10-14 12:26:00,631 [INFO] 📄 Scraping directory page 15 -> https://directory.pga.org/?refinementList%5BprogramHistory.programCode%5D=&refinementList%5Bmember_type_label%5D%5B0%5D=MB&refinementList%5Bfacility_type_label%5D=&page=15&configure%5BhitsPerPage%5D=6&configure%5Bfacets%5D%5B0%5D=_geoloc&configure%5Bfacets%5D%5B1%5D=zip&query=
+2025-10-14 12:26:04,038 [INFO] 🔗 Found 6 unique member links on page
+2025-10-14 12:26:04,044 [INFO] 🔍 Scraping member 996971625 (Attempt 1/3)
+2025-10-14 12:26:04,046 [INFO] 🔍 Scraping member 997054750 (Attempt 1/3)
+2025-10-14 12:26:04,051 [INFO] 🔍 Scraping member 996778563 (Attempt 1/3)
+2025-10-14 12:26:04,053 [INFO] 🔍 Scraping member 996827718 (Attempt 1/3)
+2025-10-14 12:26:04,054 [INFO] 🔍 Scraping member 996974677 (Attempt 1/3)
+2025-10-14 12:26:08,886 [INFO] ✅ Finished scraping member 996974677
+2025-10-14 12:26:08,886 [INFO] 🔍 Scraping member 996951411 (Attempt 1/3)
+2025-10-14 12:26:09,769 [INFO] ✅ Finished scraping member 997054750
+2025-10-14 12:26:09,772 [INFO] ✅ Finished scraping member 996971625
+2025-10-14 12:26:10,157 [INFO] ✅ Finished scraping member 996827718
+2025-10-14 12:26:11,698 [INFO] ✅ Finished scraping member 996778563
+2025-10-14 12:26:12,972 [INFO] ✅ Finished scraping member 996951411
+2025-10-14 12:26:12,974 [INFO] 💾 Data saved to member_data.csv (90 records)
+2025-10-14 12:26:13,025 [INFO] 🏁 Scraping complete!
