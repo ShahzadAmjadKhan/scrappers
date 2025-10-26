@@ -1,11 +1,10 @@
-title,address,agent_name,agent_email
-"4936 Strohm Ave, Toluca Lake, CA 91601",,,
-"10355 Dunleer Dr, Los Angeles, CA 90064",,,
-"5347 Hinton Ave, Woodland Hills, CA 91367",,,
-"3748 Berry Dr, Studio City, CA 91604",,,
-"18155 Lake Encino Dr, Encino, CA 91316",,,
-"8064 Crosnoe Ave, Panorama City, CA 91402",,,
-"16729 Chatsworth St, Granada Hills, CA 91344",,,
-"6311 Colbath Ave, Van Nuys, CA 91401",,,
-"1923 N Gower St, Los Angeles, CA 90068",,,
-"800 W 1st St APT 1803, Los Angeles, CA 90012",,,
+price,address,beds,baths,sqft,facts
+"$799,990","7800 Babcock Ave,North Hollywood, CA 91605",3,2,"1,222","['Single Family Residence', 'Built in 1953', '7,188 Square Feet Lot', '$808,300Zestimate®', '$655/sqft', '$-- HOA']"
+"$819,000","10743 Mountair Ave,Tujunga, CA 91042",3,2,"1,332","['Single Family Residence', 'Built in 1952', '8,931 Square Feet Lot', '$846,000Zestimate®', '$615/sqft', '$-- HOA']"
+"$780,000","17751 Stagg St,Reseda, CA 91335",3,2,"1,257","['Single Family Residence', 'Built in 1953', '6,027 Square Feet Lot', '$785,000Zestimate®', '$621/sqft', '$-- HOA']"
+"$699,999","8945 Baird Ave,Northridge, CA 91324",3,2,"1,232","['Single Family Residence', 'Built in 1952', '6,299 Square Feet Lot', '$713,300Zestimate®', '$568/sqft', '$-- HOA']"
+,"8618 La Tuna Canyon Rd, Sun Valley, CA 91352",,,,[]
+"$797,000","10057 Gaviota Ave,North Hills, CA 91343",3,2,"1,294","['Single Family Residence', 'Built in 1953', '8,262 Square Feet Lot', '$-- Zestimate®', '$616/sqft', '$-- HOA']"
+"$849,999","11753 Blythe St,North Hollywood, CA 91605",3,2,"1,222","['Single Family Residence', 'Built in 1926', '6,751 Square Feet Lot', '$855,300Zestimate®', '$696/sqft', '$-- HOA']"
+,"8229 S Mariposa Ave, Los Angeles, CA 90044",,,,[]
+"$825,000","8303 Topeka Dr,Northridge, CA 91324",3,2,"1,600","['Single Family Residence', 'Built in 1978', '6,799 Square Feet Lot', '$827,800Zestimate®', '$516/sqft', '$-- HOA']"
