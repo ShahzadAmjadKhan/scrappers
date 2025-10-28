@@ -1,0 +1,58 @@
+
+# Seeds for Ghana, Kenya, Nigeria — official portals + data/news sources
+# Add/remove sources as you discover better ones.
+countries:
+  Ghana:
+    portals:
+      - name: "Ministry of Roads & Highways - Road Works"
+        url: "https://mrh.gov.gh/category/road-works/"
+        type: "html"
+      - name: "Ghana Highways Authority - Ongoing Construction"
+        url: "https://www.highways.gov.gh/ongoing/periodic/construction"
+        type: "html"
+      - name: "Ghana Statistical Service"
+        url: "https://www.statsghana.gov.gh/"
+        type: "html"
+      - name: "AfDB - Ghana country portal"
+        url: "https://www.afdb.org/en/countries/west-africa/ghana"
+        type: "html"
+    feeds:
+      - name: "Ghana News Agency (Infrastructure tag search)"
+        url: "https://www.gna.org.gh/search?query=infrastructure"
+        type: "html"
+  Kenya:
+    portals:
+      - name: "Kenya National Highways Authority - On-Going Projects"
+        url: "https://kenha.co.ke/on-going-projects/"
+        type: "html"
+      - name: "Kenya National Highways Authority - Planned Projects"
+        url: "https://kenha.co.ke/planned-projects/"
+        type: "html"
+      - name: "Kenya Vision 2030 - Infrastructure"
+        url: "https://vision2030.go.ke/project/additional-flagship-infrastructure-projects/"
+        type: "html"
+      - name: "Kenya Vision 2030 - Home"
+        url: "https://vision2030.go.ke/"
+        type: "html"
+      - name: "AfDB - AIDI (Kenya)"
+        url: "https://infrastructureafrica.opendataforafrica.org/pbuerhd/africa-infrastructure-development-index-aidi-2020?country=1000250-kenya"
+        type: "html"
+    feeds:
+      - name: "The Star Kenya - Infrastructure tag"
+        url: "https://www.the-star.co.ke/search/?q=infrastructure"
+        type: "html"
+  Nigeria:
+    portals:
+      - name: "Federal Ministry of Works - Home"
+        url: "https://www.fmw.gov.ng/"
+        type: "html"
+      - name: "Highways Construction and Rehabilitation (FMOW)"
+        url: "https://fmw.gov.ng/home/Highways%20Construction%20and%20Rehabilitation/111"
+        type: "html"
+      - name: "ICRC - PPP Contracts Disclosure"
+        url: "https://www.icrc.gov.ng/services/ppp-contracts-disclosure/"
+        type: "html"
+    feeds:
+      - name: "Nairametrics - Infrastructure tag"
+        url: "https://nairametrics.com/?s=infrastructure"
+        type: "html"
