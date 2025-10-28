@@ -174,7 +174,7 @@ async def main(num_states=1, num_local_chapters=1):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Scrape The Arc chapter data')
-    parser.add_argument('--num-states', type=int, default=1,
+    parser.add_argument('--num-states', type=int, default=5,
                       help='Number of states to process (default: 1)')
     parser.add_argument('--num-local-chapters', type=int, default=10,
                       help='Number of local chapters to process per state (default: 10)')
